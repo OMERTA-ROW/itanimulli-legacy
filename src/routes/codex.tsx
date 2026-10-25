@@ -24,7 +24,7 @@ const artifacts = [
 ];
 
 function Codex() {
-  const [sel, setSel] = useState(artifacts[0]);
+  const [sel, setSel] = useState(artifacts[0]!);
   return (
     <>
       <PageHeader eyebrow="Sample data" title="Legacy Codex" kind="Demo">The House of Neferu — a sample dynasty traced across three lives.</PageHeader>
