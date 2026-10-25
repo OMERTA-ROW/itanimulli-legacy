@@ -11,7 +11,7 @@ export const Route = createFileRoute("/world")({
   component: World,
 });
 
-const places = [
+const places: [string, string, string][] = [
   ["Farm Outskirts", "Where every legend starts", "Fields of grain and flax. Labor, barter, and your first rumors."],
   ["City Gate", "Tolls & watchmen", "Guards, smugglers and caravans. Who you know decides who gets in."],
   ["Market District", "The beating heart", "Stalls, debts, favors. The Hustler's proving ground."],

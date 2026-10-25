@@ -11,7 +11,7 @@ export const Route = createFileRoute("/routes")({
   component: Routes,
 });
 
-const routes = [
+const routes: [string, string][] = [
   ["Marketplace Hustler", "Flip goods, run deals, build a street network."],
   ["Producer / Merchant", "Own the fields, workshops and barges that feed the city."],
   ["Military Leader", "Rise through the guard to command armies."],

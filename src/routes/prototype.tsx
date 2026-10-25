@@ -32,9 +32,9 @@ function Proto() {
     window.addEventListener("keydown", d); window.addEventListener("keyup", u);
     let raf = 0;
     const loop = () => {
-      const k = keys.current, p = pos.current, s = 3;
-      if (k.arrowleft || k.a) p.x -= s; if (k.arrowright || k.d) p.x += s;
-      if (k.arrowup || k.w) p.y -= s; if (k.arrowdown || k.s) p.y += s;
+      const k = keys.current as Record<string, boolean | undefined> & { [key: string]: boolean | undefined }, p = pos.current, s = 3;
+      if (k["arrowleft"] || k["a"]) p.x -= s; if (k["arrowright"] || k["d"]) p.x += s;
+      if (k["arrowup"] || k["w"]) p.y -= s; if (k["arrowdown"] || k["s"]) p.y += s;
       p.x = Math.max(10, Math.min(W - 10, p.x)); p.y = Math.max(10, Math.min(H - 10, p.y));
       // gate wall: only pass through opening
       if (p.x > 340 && p.x < 360 && (p.y < 170 || p.y > 230)) p.x = p.x < 350 ? 340 : 360;

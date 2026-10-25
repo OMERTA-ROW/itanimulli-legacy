@@ -11,7 +11,7 @@ export const Route = createFileRoute("/legacy")({
   component: Legacy,
 });
 
-const items = [
+const items: [string, string, string][] = [
   ["Ka", "Life force", "Health, stamina and vitality of your current body. When it fails, your life ends."],
   ["Ba", "Reputation that travels", "Your name and deeds. Ba carries into future eras and shapes how the world greets your line."],
   ["Weighing of the Heart", "Judgment on death", "Your deeds are weighed against the feather. The verdict sets your afterlife and your heir's starting fortune."],
