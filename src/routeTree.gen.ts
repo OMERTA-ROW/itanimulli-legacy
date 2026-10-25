@@ -10,33 +10,102 @@
 
 import { Route as rootRouteImport } from './routes/__root'
 import { Route as IndexRouteImport } from './routes/index'
+import { Route as CodexRouteImport } from './routes/codex'
+import { Route as DuatRouteImport } from './routes/duat'
+import { Route as LegacyRouteImport } from './routes/legacy'
+import { Route as PrototypeRouteImport } from './routes/prototype'
+import { Route as RoutesRouteImport } from './routes/routes'
+import { Route as WorldRouteImport } from './routes/world'
 
 const IndexRoute = IndexRouteImport.update({
   id: '/',
   path: '/',
   getParentRoute: () => rootRouteImport,
 } as any)
+const CodexRoute = CodexRouteImport.update({
+  id: '/codex',
+  path: '/codex',
+  getParentRoute: () => rootRouteImport,
+} as any)
+const DuatRoute = DuatRouteImport.update({
+  id: '/duat',
+  path: '/duat',
+  getParentRoute: () => rootRouteImport,
+} as any)
+const LegacyRoute = LegacyRouteImport.update({
+  id: '/legacy',
+  path: '/legacy',
+  getParentRoute: () => rootRouteImport,
+} as any)
+const PrototypeRoute = PrototypeRouteImport.update({
+  id: '/prototype',
+  path: '/prototype',
+  getParentRoute: () => rootRouteImport,
+} as any)
+const RoutesRoute = RoutesRouteImport.update({
+  id: '/routes',
+  path: '/routes',
+  getParentRoute: () => rootRouteImport,
+} as any)
+const WorldRoute = WorldRouteImport.update({
+  id: '/world',
+  path: '/world',
+  getParentRoute: () => rootRouteImport,
+} as any)
 
 export interface FileRoutesByFullPath {
   '/': typeof IndexRoute
+  '/codex': typeof CodexRoute
+  '/duat': typeof DuatRoute
+  '/legacy': typeof LegacyRoute
+  '/prototype': typeof PrototypeRoute
+  '/routes': typeof RoutesRoute
+  '/world': typeof WorldRoute
 }
 export interface FileRoutesByTo {
   '/': typeof IndexRoute
+  '/codex': typeof CodexRoute
+  '/duat': typeof DuatRoute
+  '/legacy': typeof LegacyRoute
+  '/prototype': typeof PrototypeRoute
+  '/routes': typeof RoutesRoute
+  '/world': typeof WorldRoute
 }
 export interface FileRoutesById {
   __root__: typeof rootRouteImport
   '/': typeof IndexRoute
+  '/codex': typeof CodexRoute
+  '/duat': typeof DuatRoute
+  '/legacy': typeof LegacyRoute
+  '/prototype': typeof PrototypeRoute
+  '/routes': typeof RoutesRoute
+  '/world': typeof WorldRoute
 }
 export interface FileRouteTypes {
   fileRoutesByFullPath: FileRoutesByFullPath
-  fullPaths: '/'
+  fullPaths:
+    '/' | '/codex' | '/duat' | '/legacy' | '/prototype' | '/routes' | '/world'
   fileRoutesByTo: FileRoutesByTo
-  to: '/'
-  id: '__root__' | '/'
+  to: '/' | '/codex' | '/duat' | '/legacy' | '/prototype' | '/routes' | '/world'
+  id:
+    | '__root__'
+    | '/'
+    | '/codex'
+    | '/duat'
+    | '/legacy'
+    | '/prototype'
+    | '/routes'
+    | '/world'
   fileRoutesById: FileRoutesById
 }
 export interface RootRouteChildren {
   IndexRoute: typeof IndexRoute
+  CodexRoute: typeof CodexRoute
+  DuatRoute: typeof DuatRoute
+  LegacyRoute: typeof LegacyRoute
+  PrototypeRoute: typeof PrototypeRoute
+  RoutesRoute: typeof RoutesRoute
+  WorldRoute: typeof WorldRoute
 }
 
 declare module '@tanstack/react-router' {
@@ -48,11 +117,59 @@ declare module '@tanstack/react-router' {
       preLoaderRoute: typeof IndexRouteImport
       parentRoute: typeof rootRouteImport
     }
+    '/codex': {
+      id: '/codex'
+      path: '/codex'
+      fullPath: '/codex'
+      preLoaderRoute: typeof CodexRouteImport
+      parentRoute: typeof rootRouteImport
+    }
+    '/duat': {
+      id: '/duat'
+      path: '/duat'
+      fullPath: '/duat'
+      preLoaderRoute: typeof DuatRouteImport
+      parentRoute: typeof rootRouteImport
+    }
+    '/legacy': {
+      id: '/legacy'
+      path: '/legacy'
+      fullPath: '/legacy'
+      preLoaderRoute: typeof LegacyRouteImport
+      parentRoute: typeof rootRouteImport
+    }
+    '/prototype': {
+      id: '/prototype'
+      path: '/prototype'
+      fullPath: '/prototype'
+      preLoaderRoute: typeof PrototypeRouteImport
+      parentRoute: typeof rootRouteImport
+    }
+    '/routes': {
+      id: '/routes'
+      path: '/routes'
+      fullPath: '/routes'
+      preLoaderRoute: typeof RoutesRouteImport
+      parentRoute: typeof rootRouteImport
+    }
+    '/world': {
+      id: '/world'
+      path: '/world'
+      fullPath: '/world'
+      preLoaderRoute: typeof WorldRouteImport
+      parentRoute: typeof rootRouteImport
+    }
   }
 }
 
 const rootRouteChildren: RootRouteChildren = {
   IndexRoute: IndexRoute,
+  CodexRoute: CodexRoute,
+  DuatRoute: DuatRoute,
+  LegacyRoute: LegacyRoute,
+  PrototypeRoute: PrototypeRoute,
+  RoutesRoute: RoutesRoute,
+  WorldRoute: WorldRoute,
 }
 export const routeTree = rootRouteImport
   ._addFileChildren(rootRouteChildren)
