@@ -37,7 +37,7 @@ export function SiteNav() {
   return (
     <header className="sticky top-0 z-50 border-b border-border bg-background/80 backdrop-blur">
       <div className="mx-auto grid max-w-7xl grid-cols-[minmax(0,1fr)_auto] items-center gap-3 px-6 py-4 sm:flex sm:flex-wrap sm:justify-between">
-        <Link to="/" className="min-w-0 truncate font-display text-lg tracking-[0.3em] text-gold-gradient">I.T.A.N.I.M.U.L.L.I.</Link>
+        <Link to="/" className="min-w-0 whitespace-nowrap font-display text-[13px] tracking-[0.12em] text-gold-gradient sm:text-lg sm:tracking-[0.3em]">I.T.A.N.I.M.U.L.L.I.</Link>
 
         <button
           ref={buttonRef}
@@ -45,7 +45,7 @@ export function SiteNav() {
           onClick={() => setOpen((value) => !value)}
           aria-expanded={open}
           aria-controls="site-nav-menu"
-          className="inline-flex shrink-0 items-center gap-2 rounded-sm border border-border px-3 py-2 font-display text-[10px] uppercase tracking-[0.25em] text-gold transition-colors hover:bg-gold/10 sm:hidden"
+          className="inline-flex shrink-0 items-center gap-1.5 rounded-sm border border-border px-2.5 py-2 font-display text-[10px] uppercase tracking-[0.2em] text-gold transition-colors hover:bg-gold/10 sm:hidden"
         >
           {open ? "Close" : "Menu"}
           <svg aria-hidden="true" viewBox="0 0 16 16" className="h-3.5 w-3.5 shrink-0" fill="none" stroke="currentColor" strokeWidth="1.5" strokeLinecap="round">
