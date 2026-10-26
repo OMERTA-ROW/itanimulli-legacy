@@ -3,9 +3,9 @@ import { Card, PageHeader } from "@/components/site";
 
 export const Route = createFileRoute("/world")({
   head: () => ({ meta: [
-    { title: "The World — Itanimulli" },
+    { title: "The World — Itanimulli: The Rise of Kings" },
     { name: "description", content: "Locations of the Itanimulli kingdom: farms, markets, palace, temples, tombs, pyramids and the Nile." },
-    { property: "og:title", content: "The World — Itanimulli" },
+    { property: "og:title", content: "The World — Itanimulli: The Rise of Kings" },
     { property: "og:description", content: "Explore the Nile kingdom of Itanimulli." },
   ] }),
   component: World,
