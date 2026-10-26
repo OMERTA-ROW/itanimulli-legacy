@@ -4,9 +4,9 @@ import { PageHeader } from "@/components/site";
 
 export const Route = createFileRoute("/prototype")({
   head: () => ({ meta: [
-    { title: "Prototype (Demo) — It's Anomaly" },
+    { title: "Prototype (Demo) — Itanimulli" },
     { name: "description", content: "Top-down browser demo: walk from the outer farm to the city gate and make a market delivery." },
-    { property: "og:title", content: "Prototype — It's Anomaly" },
+    { property: "og:title", content: "Prototype — Itanimulli" },
     { property: "og:description", content: "Play a tiny slice of the Hustler route." },
   ] }),
   component: Proto,

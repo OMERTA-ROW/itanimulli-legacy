@@ -3,9 +3,9 @@ import { Card, PageHeader } from "@/components/site";
 
 export const Route = createFileRoute("/routes")({
   head: () => ({ meta: [
-    { title: "Routes to Power — It's Anomaly" },
+    { title: "Routes to Power — Itanimulli" },
     { name: "description", content: "Six paths to power and the ladder from Vendor to Pharaoh." },
-    { property: "og:title", content: "Routes to Power — It's Anomaly" },
+    { property: "og:title", content: "Routes to Power — Itanimulli" },
     { property: "og:description", content: "Hustler, Merchant, Military, Political, Royal or Mystic." },
   ] }),
   component: Routes,

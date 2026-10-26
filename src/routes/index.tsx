@@ -5,9 +5,9 @@ import { Badge, Card } from "@/components/site";
 export const Route = createFileRoute("/")({
   head: () => ({
     meta: [
-      { title: "It's Anomaly — From street vendor to legend" },
-      { name: "description", content: "Pitch hub for It's Anomaly (I.T.A.N.I.M.U.L.L.I.), an open-world game concept spanning an ancient kingdom and a far-future space era." },
-      { property: "og:title", content: "It's Anomaly — Game Concept Hub" },
+      { title: "Itanimulli — From street vendor to legend" },
+      { name: "description", content: "Pitch hub for Itanimulli, an open-world game concept spanning an ancient kingdom and a far-future space era." },
+      { property: "og:title", content: "Itanimulli — Game Concept Hub" },
       { property: "og:description", content: "From street vendor to legend. Your legacy never dies." },
     ],
   }),
@@ -29,7 +29,7 @@ function Index() {
         <div className="absolute inset-0 bg-fade-night" />
         <div className="relative mx-auto w-full max-w-7xl px-6 pb-20">
           <div className="mb-6 flex gap-3"><Badge kind="Concept" /><span className="text-xs uppercase tracking-[0.35em] text-sand">Open-world game concept</span></div>
-          <h1 className="text-6xl font-bold md:text-9xl text-gold-gradient">It's Anomaly</h1>
+          <h1 className="text-6xl font-bold md:text-9xl text-gold-gradient">Itanimulli</h1>
           <p className="mt-3 font-display tracking-[0.5em] text-sand">I.T.A.N.I.M.U.L.L.I.</p>
           <p className="mt-8 max-w-2xl text-2xl md:text-3xl text-foreground">From street vendor to legend.<br /><span className="text-gold">Your legacy never dies.</span></p>
           <div className="mt-10 flex flex-wrap gap-4">

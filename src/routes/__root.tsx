@@ -80,8 +80,8 @@ export const Route = createRootRouteWithContext<{ queryClient: QueryClient }>()(
     meta: [
       { charSet: "utf-8" },
       { name: "viewport", content: "width=device-width, initial-scale=1" },
-      { title: "It's Anomaly — Game Concept Hub" },
-      { name: "description", content: "Companion hub and pitch site for the It's Anomaly game concept." },
+      { title: "Itanimulli — Game Concept Hub" },
+      { name: "description", content: "Companion hub and pitch site for the Itanimulli game concept." },
       { property: "og:type", content: "website" },
       { name: "twitter:card", content: "summary_large_image" },
     ],

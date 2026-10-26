@@ -123,7 +123,7 @@ export function Card({ title, sub, children, kind }: { title: string; sub?: stri
 export function Footer() {
   return (
     <footer className="mt-24 border-t border-border py-10 text-center text-xs uppercase tracking-[0.3em] text-muted-foreground">
-      It's Anomaly · Game concept hub · Not a live game
+      Itanimulli · Game concept hub · Not a live game
     </footer>
   );
 }
