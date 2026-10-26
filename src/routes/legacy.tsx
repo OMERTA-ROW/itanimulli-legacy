@@ -3,9 +3,9 @@ import { Card, PageHeader } from "@/components/site";
 
 export const Route = createFileRoute("/legacy")({
   head: () => ({ meta: [
-    { title: "Soul & Legacy — Itanimulli" },
+    { title: "Soul & Legacy — Itanimulli: The Rise of Kings" },
     { name: "description", content: "Ka, Ba, the Weighing of the Heart, succession, curses and legendary return." },
-    { property: "og:title", content: "Soul & Legacy — Itanimulli" },
+    { property: "og:title", content: "Soul & Legacy — Itanimulli: The Rise of Kings" },
     { property: "og:description", content: "Your Ka fades. Your Ba endures." },
   ] }),
   component: Legacy,

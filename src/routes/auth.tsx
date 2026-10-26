@@ -11,9 +11,9 @@ export const Route = createFileRoute("/auth")({
   validateSearch: (s) => z.object({ next: z.string().optional() }).parse(s),
   head: () => ({
     meta: [
-      { title: "Player account — Itanimulli" },
+      { title: "Player account — Itanimulli: The Rise of Kings" },
       { name: "description", content: "Sign in or create your Itanimulli player account." },
-      { property: "og:title", content: "Player account — Itanimulli" },
+      { property: "og:title", content: "Player account — Itanimulli: The Rise of Kings" },
       { property: "og:description", content: "Sign in or create your Itanimulli player account." },
     ],
   }),

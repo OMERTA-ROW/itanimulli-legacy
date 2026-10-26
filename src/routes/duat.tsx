@@ -4,9 +4,9 @@ import { Badge, PageHeader } from "@/components/site";
 
 export const Route = createFileRoute("/duat")({
   head: () => ({ meta: [
-    { title: "The Duat — Booking Photo Creator (Demo) — Itanimulli" },
+    { title: "The Duat — Booking Photo Creator (Demo) — Itanimulli: The Rise of Kings" },
     { name: "description", content: "Space-era intake aboard the prison ship Duat. Build your character in a booking-photo creator demo." },
-    { property: "og:title", content: "The Duat — Itanimulli" },
+    { property: "og:title", content: "The Duat — Itanimulli: The Rise of Kings" },
     { property: "og:description", content: "Intake begins. Adjust face, hair, skin and build before your booking photo." },
   ] }),
   component: Duat,
