@@ -4,25 +4,21 @@ import { fireEvent, render, screen } from "@testing-library/react";
 import { describe, expect, it } from "vitest";
 
 import { routeTree } from "@/routeTree.gen";
-import { SiteNav } from "@/components/site";
 
 // The phone menu is the only way to reach the sections on a narrow screen, so the
 // toggle's own contract — expanded state, panel target, Escape to close — is what
-// keeps the site usable there.
-function renderNav() {
+// keeps the site usable there. The nav is rendered by the root route, so the app
+// itself is mounted rather than the nav in isolation.
+function renderApp() {
   const router = createRouter({ routeTree, context: { queryClient: new QueryClient() } });
-  return render(
-    <RouterProvider router={router}>
-      <SiteNav />
-    </RouterProvider>,
-  );
+  return render(<RouterProvider router={router} />);
 }
 
 describe("Site nav phone menu", () => {
-  it("opens and closes the menu, and Escape closes it", () => {
-    renderNav();
+  it("opens and closes the menu, and Escape closes it", async () => {
+    renderApp();
 
-    const button = screen.getByRole("button", { name: /menu/i });
+    const button = await screen.findByRole("button", { name: /menu/i });
     expect(button).toHaveAttribute("aria-expanded", "false");
     expect(button).toHaveAttribute("aria-controls", "site-nav-menu");
     expect(document.getElementById("site-nav-menu")).not.toBeNull();
