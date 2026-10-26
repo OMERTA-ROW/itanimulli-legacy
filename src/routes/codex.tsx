@@ -4,9 +4,9 @@ import { Badge, Card, PageHeader } from "@/components/site";
 
 export const Route = createFileRoute("/codex")({
   head: () => ({ meta: [
-    { title: "Legacy Codex (Demo) — It's Anomaly" },
+    { title: "Legacy Codex (Demo) — Itanimulli" },
     { name: "description", content: "Sample lineage, tomb record and Scarab Seal artifacts." },
-    { property: "og:title", content: "Legacy Codex — It's Anomaly" },
+    { property: "og:title", content: "Legacy Codex — Itanimulli" },
     { property: "og:description", content: "Trace a dynasty and its artifacts." },
   ] }),
   component: Codex,

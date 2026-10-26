@@ -8,9 +8,9 @@ import { MEMBER_ROLES, MULTIPLAYER_BLOCKERS, PRIVACY, PROVISIONING, SERVER_GAMES
 export const Route = createFileRoute("/_authenticated/servers")({
   head: () => ({
     meta: [
-      { title: "My servers — Itanimulli the game" },
+      { title: "My servers — Itanimulli" },
       { name: "description", content: "Plan your own Itanimulli game servers as drafts." },
-      { property: "og:title", content: "My servers — Itanimulli the game" },
+      { property: "og:title", content: "My servers — Itanimulli" },
       { property: "og:description", content: "Plan your own Itanimulli game servers as drafts." },
     ],
   }),

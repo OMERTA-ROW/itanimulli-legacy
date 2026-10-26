@@ -6,9 +6,9 @@ import { PageHeader } from "@/components/site";
 export const Route = createFileRoute("/reset-password")({
   head: () => ({
     meta: [
-      { title: "Set a new password — Itanimulli the game" },
+      { title: "Set a new password — Itanimulli" },
       { name: "description", content: "Choose a new password for your Itanimulli player account." },
-      { property: "og:title", content: "Set a new password — Itanimulli the game" },
+      { property: "og:title", content: "Set a new password — Itanimulli" },
       { property: "og:description", content: "Choose a new password for your Itanimulli player account." },
     ],
   }),

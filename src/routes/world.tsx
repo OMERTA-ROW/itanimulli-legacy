@@ -3,10 +3,10 @@ import { Card, PageHeader } from "@/components/site";
 
 export const Route = createFileRoute("/world")({
   head: () => ({ meta: [
-    { title: "The World — It's Anomaly" },
-    { name: "description", content: "Locations of the It's Anomaly kingdom: farms, markets, palace, temples, tombs, pyramids and the Nile." },
-    { property: "og:title", content: "The World — It's Anomaly" },
-    { property: "og:description", content: "Explore the Nile kingdom of It's Anomaly." },
+    { title: "The World — Itanimulli" },
+    { name: "description", content: "Locations of the Itanimulli kingdom: farms, markets, palace, temples, tombs, pyramids and the Nile." },
+    { property: "og:title", content: "The World — Itanimulli" },
+    { property: "og:description", content: "Explore the Nile kingdom of Itanimulli." },
   ] }),
   component: World,
 });
