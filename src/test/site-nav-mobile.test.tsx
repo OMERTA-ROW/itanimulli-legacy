@@ -9,14 +9,15 @@ import { routeTree } from "@/routeTree.gen";
 // toggle's own contract — expanded state, panel target, Escape to close — is what
 // keeps the site usable there. The nav is rendered by the root route, so the app
 // itself is mounted rather than the nav in isolation.
-function renderApp() {
+async function renderApp() {
   const router = createRouter({ routeTree, context: { queryClient: new QueryClient() } });
+  await router.load();
   return render(<RouterProvider router={router} />);
 }
 
 describe("Site nav phone menu", () => {
   it("opens and closes the menu, and Escape closes it", async () => {
-    renderApp();
+    await renderApp();
 
     const button = await screen.findByRole("button", { name: /menu/i });
     expect(button).toHaveAttribute("aria-expanded", "false");
