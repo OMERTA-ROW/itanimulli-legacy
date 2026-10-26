@@ -16,6 +16,7 @@ import { Route as LegacyRouteImport } from './routes/legacy'
 import { Route as PrototypeRouteImport } from './routes/prototype'
 import { Route as RoutesRouteImport } from './routes/routes'
 import { Route as WorldRouteImport } from './routes/world'
+import { Route as ApiPublicLinkProviderCallbackRouteImport } from './routes/api/public/link/$provider/callback'
 
 const IndexRoute = IndexRouteImport.update({
   id: '/',
@@ -52,6 +53,12 @@ const WorldRoute = WorldRouteImport.update({
   path: '/world',
   getParentRoute: () => rootRouteImport,
 } as any)
+const ApiPublicLinkProviderCallbackRoute =
+  ApiPublicLinkProviderCallbackRouteImport.update({
+    id: '/api/public/link/$provider/callback',
+    path: '/api/public/link/$provider/callback',
+    getParentRoute: () => rootRouteImport,
+  } as any)
 
 export interface FileRoutesByFullPath {
   '/': typeof IndexRoute
@@ -61,6 +68,7 @@ export interface FileRoutesByFullPath {
   '/prototype': typeof PrototypeRoute
   '/routes': typeof RoutesRoute
   '/world': typeof WorldRoute
+  '/api/public/link/$provider/callback': typeof ApiPublicLinkProviderCallbackRoute
 }
 export interface FileRoutesByTo {
   '/': typeof IndexRoute
@@ -70,6 +78,7 @@ export interface FileRoutesByTo {
   '/prototype': typeof PrototypeRoute
   '/routes': typeof RoutesRoute
   '/world': typeof WorldRoute
+  '/api/public/link/$provider/callback': typeof ApiPublicLinkProviderCallbackRoute
 }
 export interface FileRoutesById {
   __root__: typeof rootRouteImport
@@ -80,13 +89,29 @@ export interface FileRoutesById {
   '/prototype': typeof PrototypeRoute
   '/routes': typeof RoutesRoute
   '/world': typeof WorldRoute
+  '/api/public/link/$provider/callback': typeof ApiPublicLinkProviderCallbackRoute
 }
 export interface FileRouteTypes {
   fileRoutesByFullPath: FileRoutesByFullPath
   fullPaths:
-    '/' | '/codex' | '/duat' | '/legacy' | '/prototype' | '/routes' | '/world'
+    | '/'
+    | '/codex'
+    | '/duat'
+    | '/legacy'
+    | '/prototype'
+    | '/routes'
+    | '/world'
+    | '/api/public/link/$provider/callback'
   fileRoutesByTo: FileRoutesByTo
-  to: '/' | '/codex' | '/duat' | '/legacy' | '/prototype' | '/routes' | '/world'
+  to:
+    | '/'
+    | '/codex'
+    | '/duat'
+    | '/legacy'
+    | '/prototype'
+    | '/routes'
+    | '/world'
+    | '/api/public/link/$provider/callback'
   id:
     | '__root__'
     | '/'
@@ -96,6 +121,7 @@ export interface FileRouteTypes {
     | '/prototype'
     | '/routes'
     | '/world'
+    | '/api/public/link/$provider/callback'
   fileRoutesById: FileRoutesById
 }
 export interface RootRouteChildren {
@@ -106,6 +132,7 @@ export interface RootRouteChildren {
   PrototypeRoute: typeof PrototypeRoute
   RoutesRoute: typeof RoutesRoute
   WorldRoute: typeof WorldRoute
+  ApiPublicLinkProviderCallbackRoute: typeof ApiPublicLinkProviderCallbackRoute
 }
 
 declare module '@tanstack/react-router' {
@@ -159,6 +186,13 @@ declare module '@tanstack/react-router' {
       preLoaderRoute: typeof WorldRouteImport
       parentRoute: typeof rootRouteImport
     }
+    '/api/public/link/$provider/callback': {
+      id: '/api/public/link/$provider/callback'
+      path: '/api/public/link/$provider/callback'
+      fullPath: '/api/public/link/$provider/callback'
+      preLoaderRoute: typeof ApiPublicLinkProviderCallbackRouteImport
+      parentRoute: typeof rootRouteImport
+    }
   }
 }
 
@@ -170,6 +204,7 @@ const rootRouteChildren: RootRouteChildren = {
   PrototypeRoute: PrototypeRoute,
   RoutesRoute: RoutesRoute,
   WorldRoute: WorldRoute,
+  ApiPublicLinkProviderCallbackRoute: ApiPublicLinkProviderCallbackRoute,
 }
 export const routeTree = rootRouteImport
   ._addFileChildren(rootRouteChildren)
