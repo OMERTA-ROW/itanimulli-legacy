@@ -38,7 +38,7 @@ export function SiteNav() {
   return (
     <header className="sticky top-0 z-50 border-b border-border bg-background/80 backdrop-blur">
       <div className="mx-auto grid max-w-7xl grid-cols-[minmax(0,1fr)_auto] items-center gap-3 px-6 py-4 sm:flex sm:flex-wrap sm:justify-between">
-        <Link to="/" className="min-w-0 whitespace-nowrap font-display text-[13px] tracking-[0.12em] text-gold-gradient sm:text-lg sm:tracking-[0.3em]">I.T.A.N.I.M.U.L.L.I.</Link>
+        <Link to="/" className="min-w-0 whitespace-nowrap font-display text-[13px] tracking-[0.12em] text-gold-gradient sm:text-lg sm:tracking-[0.3em]">Itanimulli</Link>
 
         <button
           ref={buttonRef}
