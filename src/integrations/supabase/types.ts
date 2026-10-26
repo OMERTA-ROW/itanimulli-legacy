@@ -14,13 +14,140 @@ export type Database = {
   }
   public: {
     Tables: {
-      [_ in never]: never
+      game_servers: {
+        Row: {
+          capacity: number
+          created_at: string
+          game: string
+          id: string
+          name: string
+          owner_id: string
+          privacy: string
+          region: string
+          status: string
+          updated_at: string
+        }
+        Insert: {
+          capacity: number
+          created_at?: string
+          game: string
+          id?: string
+          name: string
+          owner_id?: string
+          privacy: string
+          region: string
+          status?: string
+          updated_at?: string
+        }
+        Update: {
+          capacity?: number
+          created_at?: string
+          game?: string
+          id?: string
+          name?: string
+          owner_id?: string
+          privacy?: string
+          region?: string
+          status?: string
+          updated_at?: string
+        }
+        Relationships: []
+      }
+      link_states: {
+        Row: {
+          code_verifier: string | null
+          created_at: string
+          expires_at: string
+          nonce: string
+          provider: string
+          state: string
+          user_id: string
+        }
+        Insert: {
+          code_verifier?: string | null
+          created_at?: string
+          expires_at?: string
+          nonce: string
+          provider: string
+          state: string
+          user_id: string
+        }
+        Update: {
+          code_verifier?: string | null
+          created_at?: string
+          expires_at?: string
+          nonce?: string
+          provider?: string
+          state?: string
+          user_id?: string
+        }
+        Relationships: []
+      }
+      linked_accounts: {
+        Row: {
+          display_name: string | null
+          id: string
+          linked_at: string
+          provider: string
+          provider_user_id: string
+          user_id: string
+        }
+        Insert: {
+          display_name?: string | null
+          id?: string
+          linked_at?: string
+          provider: string
+          provider_user_id: string
+          user_id: string
+        }
+        Update: {
+          display_name?: string | null
+          id?: string
+          linked_at?: string
+          provider?: string
+          provider_user_id?: string
+          user_id?: string
+        }
+        Relationships: []
+      }
+      server_members: {
+        Row: {
+          created_at: string
+          id: string
+          invited_email: string
+          role: string
+          server_id: string
+        }
+        Insert: {
+          created_at?: string
+          id?: string
+          invited_email: string
+          role: string
+          server_id: string
+        }
+        Update: {
+          created_at?: string
+          id?: string
+          invited_email?: string
+          role?: string
+          server_id?: string
+        }
+        Relationships: [
+          {
+            foreignKeyName: "server_members_server_id_fkey"
+            columns: ["server_id"]
+            isOneToOne: false
+            referencedRelation: "game_servers"
+            referencedColumns: ["id"]
+          },
+        ]
+      }
     }
     Views: {
       [_ in never]: never
     }
     Functions: {
-      [_ in never]: never
+      owns_server: { Args: { _server_id: string }; Returns: boolean }
     }
     Enums: {
       [_ in never]: never
