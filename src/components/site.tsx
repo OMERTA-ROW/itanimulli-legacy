@@ -9,6 +9,7 @@ const nav = [
   { to: "/codex", label: "Codex" },
   { to: "/duat", label: "The Duat" },
   { to: "/prototype", label: "Prototype" },
+  { to: "/account", label: "Account" },
 ] as const;
 
 export function SiteNav() {
