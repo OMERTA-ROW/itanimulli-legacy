@@ -15,7 +15,7 @@ export function SiteNav() {
   return (
     <header className="sticky top-0 z-50 border-b border-border bg-background/80 backdrop-blur">
       <div className="mx-auto flex max-w-7xl flex-wrap items-center justify-between gap-3 px-6 py-4">
-        <Link to="/" className="font-display text-lg tracking-[0.3em] text-gold-gradient">I.T.M.U.L.L.I.</Link>
+        <Link to="/" className="font-display text-lg tracking-[0.3em] text-gold-gradient">I.T.A.N.I.M.U.L.L.I.</Link>
         <nav className="flex flex-wrap gap-5 text-xs uppercase tracking-[0.2em] text-muted-foreground">
           {nav.map((n) => (
             <Link key={n.to} to={n.to} activeOptions={{ exact: true }} activeProps={{ className: "text-gold" }} className="hover:text-gold transition-colors">
