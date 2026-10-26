@@ -10,17 +10,31 @@
 
 import { Route as rootRouteImport } from './routes/__root'
 import { Route as IndexRouteImport } from './routes/index'
+import { Route as AuthenticatedRouteRouteImport } from './routes/_authenticated/route'
+import { Route as AuthRouteImport } from './routes/auth'
 import { Route as CodexRouteImport } from './routes/codex'
 import { Route as DuatRouteImport } from './routes/duat'
 import { Route as LegacyRouteImport } from './routes/legacy'
 import { Route as PrototypeRouteImport } from './routes/prototype'
+import { Route as ResetPasswordRouteImport } from './routes/reset-password'
 import { Route as RoutesRouteImport } from './routes/routes'
 import { Route as WorldRouteImport } from './routes/world'
+import { Route as AuthenticatedAccountRouteImport } from './routes/_authenticated/account'
+import { Route as AuthenticatedServersRouteImport } from './routes/_authenticated/servers'
 import { Route as ApiPublicLinkProviderCallbackRouteImport } from './routes/api/public/link/$provider/callback'
 
 const IndexRoute = IndexRouteImport.update({
   id: '/',
   path: '/',
+  getParentRoute: () => rootRouteImport,
+} as any)
+const AuthenticatedRouteRoute = AuthenticatedRouteRouteImport.update({
+  id: '/_authenticated',
+  getParentRoute: () => rootRouteImport,
+} as any)
+const AuthRoute = AuthRouteImport.update({
+  id: '/auth',
+  path: '/auth',
   getParentRoute: () => rootRouteImport,
 } as any)
 const CodexRoute = CodexRouteImport.update({
@@ -43,6 +57,11 @@ const PrototypeRoute = PrototypeRouteImport.update({
   path: '/prototype',
   getParentRoute: () => rootRouteImport,
 } as any)
+const ResetPasswordRoute = ResetPasswordRouteImport.update({
+  id: '/reset-password',
+  path: '/reset-password',
+  getParentRoute: () => rootRouteImport,
+} as any)
 const RoutesRoute = RoutesRouteImport.update({
   id: '/routes',
   path: '/routes',
@@ -53,6 +72,16 @@ const WorldRoute = WorldRouteImport.update({
   path: '/world',
   getParentRoute: () => rootRouteImport,
 } as any)
+const AuthenticatedAccountRoute = AuthenticatedAccountRouteImport.update({
+  id: '/account',
+  path: '/account',
+  getParentRoute: () => AuthenticatedRouteRoute,
+} as any)
+const AuthenticatedServersRoute = AuthenticatedServersRouteImport.update({
+  id: '/servers',
+  path: '/servers',
+  getParentRoute: () => AuthenticatedRouteRoute,
+} as any)
 const ApiPublicLinkProviderCallbackRoute =
   ApiPublicLinkProviderCallbackRouteImport.update({
     id: '/api/public/link/$provider/callback',
@@ -62,74 +91,103 @@ const ApiPublicLinkProviderCallbackRoute =
 
 export interface FileRoutesByFullPath {
   '/': typeof IndexRoute
+  '/auth': typeof AuthRoute
   '/codex': typeof CodexRoute
   '/duat': typeof DuatRoute
   '/legacy': typeof LegacyRoute
   '/prototype': typeof PrototypeRoute
+  '/reset-password': typeof ResetPasswordRoute
   '/routes': typeof RoutesRoute
   '/world': typeof WorldRoute
+  '/account': typeof AuthenticatedAccountRoute
+  '/servers': typeof AuthenticatedServersRoute
   '/api/public/link/$provider/callback': typeof ApiPublicLinkProviderCallbackRoute
 }
 export interface FileRoutesByTo {
   '/': typeof IndexRoute
+  '/auth': typeof AuthRoute
   '/codex': typeof CodexRoute
   '/duat': typeof DuatRoute
   '/legacy': typeof LegacyRoute
   '/prototype': typeof PrototypeRoute
+  '/reset-password': typeof ResetPasswordRoute
   '/routes': typeof RoutesRoute
   '/world': typeof WorldRoute
+  '/account': typeof AuthenticatedAccountRoute
+  '/servers': typeof AuthenticatedServersRoute
   '/api/public/link/$provider/callback': typeof ApiPublicLinkProviderCallbackRoute
 }
 export interface FileRoutesById {
   __root__: typeof rootRouteImport
   '/': typeof IndexRoute
+  '/_authenticated': typeof AuthenticatedRouteRouteWithChildren
+  '/auth': typeof AuthRoute
   '/codex': typeof CodexRoute
   '/duat': typeof DuatRoute
   '/legacy': typeof LegacyRoute
   '/prototype': typeof PrototypeRoute
+  '/reset-password': typeof ResetPasswordRoute
   '/routes': typeof RoutesRoute
   '/world': typeof WorldRoute
+  '/_authenticated/account': typeof AuthenticatedAccountRoute
+  '/_authenticated/servers': typeof AuthenticatedServersRoute
   '/api/public/link/$provider/callback': typeof ApiPublicLinkProviderCallbackRoute
 }
 export interface FileRouteTypes {
   fileRoutesByFullPath: FileRoutesByFullPath
   fullPaths:
     | '/'
+    | '/auth'
     | '/codex'
     | '/duat'
     | '/legacy'
     | '/prototype'
+    | '/reset-password'
     | '/routes'
     | '/world'
+    | '/account'
+    | '/servers'
     | '/api/public/link/$provider/callback'
   fileRoutesByTo: FileRoutesByTo
   to:
     | '/'
+    | '/auth'
     | '/codex'
     | '/duat'
     | '/legacy'
     | '/prototype'
+    | '/reset-password'
     | '/routes'
     | '/world'
+    | '/account'
+    | '/servers'
     | '/api/public/link/$provider/callback'
   id:
     | '__root__'
     | '/'
+    | '/_authenticated'
+    | '/auth'
     | '/codex'
     | '/duat'
     | '/legacy'
     | '/prototype'
+    | '/reset-password'
     | '/routes'
     | '/world'
+    | '/_authenticated/account'
+    | '/_authenticated/servers'
     | '/api/public/link/$provider/callback'
   fileRoutesById: FileRoutesById
 }
 export interface RootRouteChildren {
   IndexRoute: typeof IndexRoute
+  AuthenticatedRouteRoute: typeof AuthenticatedRouteRouteWithChildren
+  AuthRoute: typeof AuthRoute
   CodexRoute: typeof CodexRoute
   DuatRoute: typeof DuatRoute
   LegacyRoute: typeof LegacyRoute
   PrototypeRoute: typeof PrototypeRoute
+  ResetPasswordRoute: typeof ResetPasswordRoute
   RoutesRoute: typeof RoutesRoute
   WorldRoute: typeof WorldRoute
   ApiPublicLinkProviderCallbackRoute: typeof ApiPublicLinkProviderCallbackRoute
@@ -142,6 +200,20 @@ declare module '@tanstack/react-router' {
       path: '/'
       fullPath: '/'
       preLoaderRoute: typeof IndexRouteImport
+      parentRoute: typeof rootRouteImport
+    }
+    '/_authenticated': {
+      id: '/_authenticated'
+      path: ''
+      fullPath: '/'
+      preLoaderRoute: typeof AuthenticatedRouteRouteImport
+      parentRoute: typeof rootRouteImport
+    }
+    '/auth': {
+      id: '/auth'
+      path: '/auth'
+      fullPath: '/auth'
+      preLoaderRoute: typeof AuthRouteImport
       parentRoute: typeof rootRouteImport
     }
     '/codex': {
@@ -172,6 +244,13 @@ declare module '@tanstack/react-router' {
       preLoaderRoute: typeof PrototypeRouteImport
       parentRoute: typeof rootRouteImport
     }
+    '/reset-password': {
+      id: '/reset-password'
+      path: '/reset-password'
+      fullPath: '/reset-password'
+      preLoaderRoute: typeof ResetPasswordRouteImport
+      parentRoute: typeof rootRouteImport
+    }
     '/routes': {
       id: '/routes'
       path: '/routes'
@@ -186,6 +265,20 @@ declare module '@tanstack/react-router' {
       preLoaderRoute: typeof WorldRouteImport
       parentRoute: typeof rootRouteImport
     }
+    '/_authenticated/account': {
+      id: '/_authenticated/account'
+      path: '/account'
+      fullPath: '/account'
+      preLoaderRoute: typeof AuthenticatedAccountRouteImport
+      parentRoute: typeof AuthenticatedRouteRoute
+    }
+    '/_authenticated/servers': {
+      id: '/_authenticated/servers'
+      path: '/servers'
+      fullPath: '/servers'
+      preLoaderRoute: typeof AuthenticatedServersRouteImport
+      parentRoute: typeof AuthenticatedRouteRoute
+    }
     '/api/public/link/$provider/callback': {
       id: '/api/public/link/$provider/callback'
       path: '/api/public/link/$provider/callback'
@@ -196,12 +289,28 @@ declare module '@tanstack/react-router' {
   }
 }
 
+interface AuthenticatedRouteRouteChildren {
+  AuthenticatedAccountRoute: typeof AuthenticatedAccountRoute
+  AuthenticatedServersRoute: typeof AuthenticatedServersRoute
+}
+
+const AuthenticatedRouteRouteChildren: AuthenticatedRouteRouteChildren = {
+  AuthenticatedAccountRoute: AuthenticatedAccountRoute,
+  AuthenticatedServersRoute: AuthenticatedServersRoute,
+}
+
+const AuthenticatedRouteRouteWithChildren =
+  AuthenticatedRouteRoute._addFileChildren(AuthenticatedRouteRouteChildren)
+
 const rootRouteChildren: RootRouteChildren = {
   IndexRoute: IndexRoute,
+  AuthenticatedRouteRoute: AuthenticatedRouteRouteWithChildren,
+  AuthRoute: AuthRoute,
   CodexRoute: CodexRoute,
   DuatRoute: DuatRoute,
   LegacyRoute: LegacyRoute,
   PrototypeRoute: PrototypeRoute,
+  ResetPasswordRoute: ResetPasswordRoute,
   RoutesRoute: RoutesRoute,
   WorldRoute: WorldRoute,
   ApiPublicLinkProviderCallbackRoute: ApiPublicLinkProviderCallbackRoute,
