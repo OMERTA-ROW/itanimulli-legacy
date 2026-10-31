@@ -110,6 +110,117 @@ export type Database = {
         }
         Relationships: []
       }
+      qa_access: {
+        Row: {
+          email: string
+          granted_at: string
+          granted_by: string
+          revoked_at: string | null
+          role: string
+          user_id: string
+        }
+        Insert: {
+          email: string
+          granted_at?: string
+          granted_by: string
+          revoked_at?: string | null
+          role?: string
+          user_id: string
+        }
+        Update: {
+          email?: string
+          granted_at?: string
+          granted_by?: string
+          revoked_at?: string | null
+          role?: string
+          user_id?: string
+        }
+        Relationships: []
+      }
+      qa_invitations: {
+        Row: {
+          created_at: string
+          created_by: string
+          expires_at: string
+          id: string
+          invited_email: string
+          revoked_at: string | null
+          token_hash: string
+          used_at: string | null
+          used_by: string | null
+        }
+        Insert: {
+          created_at?: string
+          created_by: string
+          expires_at: string
+          id?: string
+          invited_email: string
+          revoked_at?: string | null
+          token_hash: string
+          used_at?: string | null
+          used_by?: string | null
+        }
+        Update: {
+          created_at?: string
+          created_by?: string
+          expires_at?: string
+          id?: string
+          invited_email?: string
+          revoked_at?: string | null
+          token_hash?: string
+          used_at?: string | null
+          used_by?: string | null
+        }
+        Relationships: []
+      }
+      qa_issues: {
+        Row: {
+          build_version: string
+          category: string
+          created_at: string
+          created_by: string
+          evidence_ref: string | null
+          expected: string
+          id: string
+          observed: string
+          repro_steps: string
+          severity: string
+          status: string
+          title: string
+          updated_at: string
+        }
+        Insert: {
+          build_version: string
+          category: string
+          created_at?: string
+          created_by: string
+          evidence_ref?: string | null
+          expected: string
+          id?: string
+          observed: string
+          repro_steps: string
+          severity: string
+          status?: string
+          title: string
+          updated_at?: string
+        }
+        Update: {
+          build_version?: string
+          category?: string
+          created_at?: string
+          created_by?: string
+          evidence_ref?: string | null
+          expected?: string
+          id?: string
+          observed?: string
+          repro_steps?: string
+          severity?: string
+          status?: string
+          title?: string
+          updated_at?: string
+        }
+        Relationships: []
+      }
       server_members: {
         Row: {
           created_at: string
