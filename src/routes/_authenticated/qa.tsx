@@ -2,7 +2,7 @@ import { createFileRoute } from "@tanstack/react-router";
 import { useServerFn } from "@tanstack/react-start";
 import { useQuery, useQueryClient } from "@tanstack/react-query";
 import { useState, type FormEvent } from "react";
-import { PageHeader, Badge } from "@/components/site";
+import { PageHeader } from "@/components/site";
 import { QA_CATEGORIES, QA_SEVERITIES, QA_STATUSES, jackboyHandoff } from "@/lib/qa";
 import {
   createInvite, createIssue, getConnectionStatus, getQaSession, listIssues,
@@ -184,7 +184,7 @@ function Issues() {
           <li key={i.id} className="rounded-sm border border-border p-4 text-sm">
             <div className="flex flex-wrap items-center justify-between gap-2">
               <span className="font-semibold">{i.title}</span>
-              <span className="flex items-center gap-2"><Badge kind="Demo" /> 
+              <span className="flex items-center gap-2">
                 <select aria-label="Status" className="rounded-sm border border-border bg-background px-2 py-1" value={i.status}
                   onChange={async (e) => { await setStatus({ data: { id: i.id, status: e.target.value as never } }); qc.invalidateQueries({ queryKey: ["qa-issues"] }); }}>
                   {QA_STATUSES.map((s) => <option key={s}>{s}</option>)}
