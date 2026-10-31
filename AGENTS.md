@@ -13,3 +13,4 @@
 - Gaming-account providers are declared in `src/lib/providers.ts` (client-safe catalog) with adapters in `src/lib/providers.server.ts`; partner-only platforms have no adapter. Why: keeps secrets server-side and prevents fake "connected" states.
 - Link callbacks live at `/api/public/link/$provider/callback` and trust only a consumed `link_states` row plus the matching httpOnly cookie. Why: the route is public and must not accept forged identities.
 - Game servers are draft-only, enforced by a database trigger, until a real hosting adapter and dedicated-server build exist. Why: never show invented running servers or addresses.
+- QA review tables (`qa_invitations`, `qa_access`, `qa_issues`) have no client grants; every read/write goes through `src/lib/qa.functions.ts`, which resolves the role (owner via verified `OWNER_EMAIL` match, reviewer via active `qa_access`) before using the admin client. Why: one server-enforced permission check, no self-assignment.

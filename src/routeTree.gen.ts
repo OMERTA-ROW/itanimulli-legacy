@@ -20,7 +20,9 @@ import { Route as ResetPasswordRouteImport } from './routes/reset-password'
 import { Route as RoutesRouteImport } from './routes/routes'
 import { Route as WorldRouteImport } from './routes/world'
 import { Route as AuthenticatedAccountRouteImport } from './routes/_authenticated/account'
+import { Route as AuthenticatedQaRouteImport } from './routes/_authenticated/qa'
 import { Route as AuthenticatedServersRouteImport } from './routes/_authenticated/servers'
+import { Route as QaInviteTokenRouteImport } from './routes/qa-invite.$token'
 import { Route as ApiPublicLinkProviderCallbackRouteImport } from './routes/api/public/link/$provider/callback'
 
 const IndexRoute = IndexRouteImport.update({
@@ -77,10 +79,20 @@ const AuthenticatedAccountRoute = AuthenticatedAccountRouteImport.update({
   path: '/account',
   getParentRoute: () => AuthenticatedRouteRoute,
 } as any)
+const AuthenticatedQaRoute = AuthenticatedQaRouteImport.update({
+  id: '/qa',
+  path: '/qa',
+  getParentRoute: () => AuthenticatedRouteRoute,
+} as any)
 const AuthenticatedServersRoute = AuthenticatedServersRouteImport.update({
   id: '/servers',
   path: '/servers',
   getParentRoute: () => AuthenticatedRouteRoute,
+} as any)
+const QaInviteTokenRoute = QaInviteTokenRouteImport.update({
+  id: '/qa-invite/$token',
+  path: '/qa-invite/$token',
+  getParentRoute: () => rootRouteImport,
 } as any)
 const ApiPublicLinkProviderCallbackRoute =
   ApiPublicLinkProviderCallbackRouteImport.update({
@@ -100,7 +112,9 @@ export interface FileRoutesByFullPath {
   '/routes': typeof RoutesRoute
   '/world': typeof WorldRoute
   '/account': typeof AuthenticatedAccountRoute
+  '/qa': typeof AuthenticatedQaRoute
   '/servers': typeof AuthenticatedServersRoute
+  '/qa-invite/$token': typeof QaInviteTokenRoute
   '/api/public/link/$provider/callback': typeof ApiPublicLinkProviderCallbackRoute
 }
 export interface FileRoutesByTo {
@@ -114,7 +128,9 @@ export interface FileRoutesByTo {
   '/routes': typeof RoutesRoute
   '/world': typeof WorldRoute
   '/account': typeof AuthenticatedAccountRoute
+  '/qa': typeof AuthenticatedQaRoute
   '/servers': typeof AuthenticatedServersRoute
+  '/qa-invite/$token': typeof QaInviteTokenRoute
   '/api/public/link/$provider/callback': typeof ApiPublicLinkProviderCallbackRoute
 }
 export interface FileRoutesById {
@@ -130,7 +146,9 @@ export interface FileRoutesById {
   '/routes': typeof RoutesRoute
   '/world': typeof WorldRoute
   '/_authenticated/account': typeof AuthenticatedAccountRoute
+  '/_authenticated/qa': typeof AuthenticatedQaRoute
   '/_authenticated/servers': typeof AuthenticatedServersRoute
+  '/qa-invite/$token': typeof QaInviteTokenRoute
   '/api/public/link/$provider/callback': typeof ApiPublicLinkProviderCallbackRoute
 }
 export interface FileRouteTypes {
@@ -146,7 +164,9 @@ export interface FileRouteTypes {
     | '/routes'
     | '/world'
     | '/account'
+    | '/qa'
     | '/servers'
+    | '/qa-invite/$token'
     | '/api/public/link/$provider/callback'
   fileRoutesByTo: FileRoutesByTo
   to:
@@ -160,7 +180,9 @@ export interface FileRouteTypes {
     | '/routes'
     | '/world'
     | '/account'
+    | '/qa'
     | '/servers'
+    | '/qa-invite/$token'
     | '/api/public/link/$provider/callback'
   id:
     | '__root__'
@@ -175,7 +197,9 @@ export interface FileRouteTypes {
     | '/routes'
     | '/world'
     | '/_authenticated/account'
+    | '/_authenticated/qa'
     | '/_authenticated/servers'
+    | '/qa-invite/$token'
     | '/api/public/link/$provider/callback'
   fileRoutesById: FileRoutesById
 }
@@ -190,6 +214,7 @@ export interface RootRouteChildren {
   ResetPasswordRoute: typeof ResetPasswordRoute
   RoutesRoute: typeof RoutesRoute
   WorldRoute: typeof WorldRoute
+  QaInviteTokenRoute: typeof QaInviteTokenRoute
   ApiPublicLinkProviderCallbackRoute: typeof ApiPublicLinkProviderCallbackRoute
 }
 
@@ -272,12 +297,26 @@ declare module '@tanstack/react-router' {
       preLoaderRoute: typeof AuthenticatedAccountRouteImport
       parentRoute: typeof AuthenticatedRouteRoute
     }
+    '/_authenticated/qa': {
+      id: '/_authenticated/qa'
+      path: '/qa'
+      fullPath: '/qa'
+      preLoaderRoute: typeof AuthenticatedQaRouteImport
+      parentRoute: typeof AuthenticatedRouteRoute
+    }
     '/_authenticated/servers': {
       id: '/_authenticated/servers'
       path: '/servers'
       fullPath: '/servers'
       preLoaderRoute: typeof AuthenticatedServersRouteImport
       parentRoute: typeof AuthenticatedRouteRoute
+    }
+    '/qa-invite/$token': {
+      id: '/qa-invite/$token'
+      path: '/qa-invite/$token'
+      fullPath: '/qa-invite/$token'
+      preLoaderRoute: typeof QaInviteTokenRouteImport
+      parentRoute: typeof rootRouteImport
     }
     '/api/public/link/$provider/callback': {
       id: '/api/public/link/$provider/callback'
@@ -291,11 +330,13 @@ declare module '@tanstack/react-router' {
 
 interface AuthenticatedRouteRouteChildren {
   AuthenticatedAccountRoute: typeof AuthenticatedAccountRoute
+  AuthenticatedQaRoute: typeof AuthenticatedQaRoute
   AuthenticatedServersRoute: typeof AuthenticatedServersRoute
 }
 
 const AuthenticatedRouteRouteChildren: AuthenticatedRouteRouteChildren = {
   AuthenticatedAccountRoute: AuthenticatedAccountRoute,
+  AuthenticatedQaRoute: AuthenticatedQaRoute,
   AuthenticatedServersRoute: AuthenticatedServersRoute,
 }
 
@@ -313,6 +354,7 @@ const rootRouteChildren: RootRouteChildren = {
   ResetPasswordRoute: ResetPasswordRoute,
   RoutesRoute: RoutesRoute,
   WorldRoute: WorldRoute,
+  QaInviteTokenRoute: QaInviteTokenRoute,
   ApiPublicLinkProviderCallbackRoute: ApiPublicLinkProviderCallbackRoute,
 }
 export const routeTree = rootRouteImport

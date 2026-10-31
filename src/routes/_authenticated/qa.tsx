@@ -5,11 +5,10 @@ import { useState, type FormEvent } from "react";
 import { PageHeader, Badge } from "@/components/site";
 import { QA_CATEGORIES, QA_SEVERITIES, QA_STATUSES, jackboyHandoff } from "@/lib/qa";
 import {
-  acceptInvite as _a, createInvite, createIssue, getConnectionStatus, getQaSession, listIssues,
+  createInvite, createIssue, getConnectionStatus, getQaSession, listIssues,
   ownerOverview, revokeAccess, revokeInvite, setIssueStatus,
 } from "@/lib/qa.functions";
 
-void _a;
 
 export const Route = createFileRoute("/_authenticated/qa")({
   head: () => ({
