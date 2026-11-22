@@ -115,4 +115,19 @@ The Duat space-jail intake remains the proposed separate future-era opening. Pla
 
 **First test:** Use one district in two separate worlds. Resolve a supply disruption in Story, then change the same district through shared play Online. Reload both and verify each mode retains its own outcomes.
 
+## 9. Online Easter eggs and mythical discoveries
+
+**Design direction:** Give Online its own substantial collection of Easter eggs. Use hidden weapons and relics, mythical creatures, environmental mysteries, and hidden places that players can discover while exploring the shared civilization.
+
+| Proposed discovery | How players find it | What discovery unlocks |
+| --- | --- | --- |
+| Sealed royal armory | Piece together three maker's marks from a market, a ruined watchtower, and a submerged shrine | A secret ceremonial weapon with a distinctive handling style tuned for shared play |
+| River guardian | Follow tracks and local stories during a rare flood | A creature encounter that can be observed and recorded in the Legacy Codex |
+| The Forgotten Pharaoh | Follow a fragmentary inscription and compare it with a second record found by another player | A hidden chamber, a lost chapter of local history, and credit for the discoverers |
+| Shifting desert passage | Revisit a familiar landmark after a sandstorm changes the terrain | A temporary route to a relic site, with clues that can reappear during a later storm |
+
+Mix permanent landmarks, rare weather-driven encounters, and clues that players can piece together over multiple sessions. Save individual and group discovery credit. Share discoveries through optional rumors and Codex records so explorers can choose how much to reveal. Repeatable access can keep rare discoveries playable after a server first. Test the impact of secret weapons on competitive balance.
+
+For the first Online district, prototype one hidden weapon, one creature encounter, and one mystery that rewards sharing clues. Keep the exact Story transition between eras open for further discussion.
+
 **Design references:** Gold Dynasty foundation and trilogy notes, Living Civilization gameplay and realism notes, cross-release account continuity concepts, Hidden Chronicles Easter egg notes, character creation and space-jail brief, and the Itanimulli Legacy companion README.
