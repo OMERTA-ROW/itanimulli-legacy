@@ -260,4 +260,8 @@ Embed fame throughout the rise and fall of rulers as part of Gold Dynasty’s ri
 
 For example, funding irrigation can improve harvests and stabilize food prices, while investing in city policing can change patrol coverage and incident response. A budget decision can affect jobs, prices, public confidence, and which events or missions arise next. Surface those effects through department reports, local news, and characters in the city.
 
+### How a Pharaoh falls
+
+Tie the loss of office and its reputational consequences to the cause. A ruler sealed in time can become a missing figure with a possible future return. A ruler removed and incarcerated enters the existing justice and custody systems. A ruler who dies leaves a succession and legacy question. A ruler whose treasury is robbed can lose the resources to pay staff or keep alliances, putting the throne at risk. Being robbed can draw sympathy or expose weaknesses according to what happened and what the city knows. Track public memory separately from office, wealth, and legal status. Keep release, return, and succession rules open. The founder can supply Egyptian film references later.
+
 **Design references:** Gold Dynasty foundation and trilogy notes, Living Civilization gameplay and realism notes, cross-release account continuity concepts, Hidden Chronicles Easter egg notes, character creation and space-jail brief, and the Itanimulli Legacy companion README.
