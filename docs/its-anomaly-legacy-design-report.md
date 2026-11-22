@@ -134,6 +134,12 @@ The Duat space-jail intake remains the proposed separate future-era opening. Pla
 
 Let players witness these alone or compare clues with friends. Some sightings can stay unexplained. Others can unlock local history in the Legacy Codex. Rare conditions should recur so players have another chance to discover them.
 
+### Desert folklore and alien Easter eggs
+
+- **The Lamp Beneath the Dunes.** An Aladdin-inspired discovery drawn from the traditional folktale. A sandstorm exposes an old caravan marker. Follow its shadow at dusk to find a buried market where a brass lamp holds a jinn. The jinn offers three favors. For example, a player could ask to find a lost caravan, learn the route to a hidden oasis, or recover an heirloom for a local family. Each favor opens a different small quest and leaves a distinct Codex record. Use original characters, dialogue, and art.
+- **The second shadow.** An unidentified craft passes over the dunes during a meteor shower. Players who track its shadow find a piece of material etched with a pattern also visible in an ancient observatory. Comparing the two points to a second site.
+- **The signal beneath the salt flats.** At certain times an old radio picks up a repeating sequence. Follow it to a buried relay that briefly projects an unfamiliar star map. Its connection to the Duat can remain an open mystery.
+
 Mix permanent landmarks, rare weather-driven encounters, and clues that players can piece together over multiple sessions. Save individual and group discovery credit. Share discoveries through optional rumors and Codex records so explorers can choose how much to reveal. Repeatable access can keep rare discoveries playable after a server first. Test the impact of secret weapons on competitive balance.
 
 For the first Online district, prototype one hidden weapon, one creature encounter, and one mystery that rewards sharing clues. Keep the exact Story transition between eras open for further discussion.
