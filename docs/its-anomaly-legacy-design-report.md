@@ -252,4 +252,12 @@ Give every character in modern Gold Dynasty, including NPCs, a baseline in-game 
 
 An original software and distribution company, with Microsoft as a business reference, runs the shared developer platform and app marketplace used by the phone ecosystem. Make developer a playable career. Let players pitch for major contracts on the strength of their work, proposal, and delivery record, with Pharaoh status optional. Players can pitch, prototype, or submit in-game software and other technology to the platform for contracts. Example projects include a venue booking app, a radio app, or a delivery tool. Approved projects can receive in-game advance payments, milestone pay, or recurring license income as businesses and characters adopt them. Give small projects starter terms and larger projects room for negotiated maintenance and distribution terms. Use game-defined tools and reviewed content for the initial developer path. Company names, contract rates, and platform ownership remain open.
 
+## 15. Pharaoh and city government
+
+Pharaoh is a playable governing office as well as the highest status tier. Oversee policing and justice, agriculture and food supply, trade, public works, and the city budget. Department heads manage daily operations. The ruler sets priorities, appoints or retains leaders, and answers for results. Existing rulers and officials continue to operate while other eligible players build toward office. Keep the exact path to taking office and succession rules open.
+
+Track public fame separately from governing competence and trust. Officials can prefer privacy and still run departments well. Players can actively pursue recognition, and that visibility can bring supporters and scrutiny. Wealth and reputation can help a player become eligible for Pharaoh. How they rule determines their experience in office and whether they can sustain it.
+
+For example, funding irrigation can improve harvests and stabilize food prices, while investing in city policing can change patrol coverage and incident response. A budget decision can affect jobs, prices, public confidence, and which events or missions arise next. Surface those effects through department reports, local news, and characters in the city.
+
 **Design references:** Gold Dynasty foundation and trilogy notes, Living Civilization gameplay and realism notes, cross-release account continuity concepts, Hidden Chronicles Easter egg notes, character creation and space-jail brief, and the Itanimulli Legacy companion README.
