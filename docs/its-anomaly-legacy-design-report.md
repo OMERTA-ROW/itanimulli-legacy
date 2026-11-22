@@ -288,6 +288,8 @@ Use the existing succession and rediscovery mechanics as the handover framework.
 
 ## 16. Full weapon inventory and combat
 
+**One-on-one street combat:** Blend spontaneous open-world encounters with boxing-style footwork, guards, and counters, and MMA-inspired clinch, takedown, and ground phases. Use original controls and animations. Keep organized arena bouts on defined rules and resolve street encounters through the existing city systems.
+
 - **Sword fighting:** Include playable blade combat with readable attacks, guarding, parrying, and dodging. Give weapon families distinct handling. Story can introduce blades through the ancient setting and preserve selected designs as later relics.
 - **Unarmed fighting:** Include punches, kicks, blocks, and grapples as a playable option with its own stamina and timing. Use it in training, organized bouts, and appropriate encounters.
 - **One-on-one fighting:** Support both armed duels and unarmed bouts. Story can tie a duel to a rivalry or a challenge. Online can offer opt-in duels with agreed equipment rules. Keep duel outcomes distinct from ordinary city crime.
@@ -299,6 +301,6 @@ Use the existing succession and rediscovery mechanics as the handover framework.
 
 ## 17. Stadium, hockey, and basketball arenas
 
-Add a Gold Dynasty sports district with a large stadium that can switch between American football and soccer, plus a neighboring indoor ice hockey arena and a dedicated indoor basketball arena. The basketball arena supports playable exhibition games and spectator seating. Plan for playable exhibitions and spectator access in Story and Online. Connect event days to the existing creator and entertainment careers through camera crew shifts, pregame shows, and performance bookings. Stadium location and full league rules remain open.
+Add a Gold Dynasty sports district with a large stadium that can switch between American football and soccer, plus a neighboring indoor ice hockey arena and a dedicated indoor basketball arena. The basketball arena supports playable exhibition games and spectator seating. Extend playable basketball to public park courts and home hoops where space permits, with pickup games and solo shooting practice in Story and Online. Plan for playable exhibitions and spectator access in Story and Online. Connect event days to the existing creator and entertainment careers through camera crew shifts, pregame shows, and performance bookings. Stadium location and full league rules remain open.
 
 **Design references:** Gold Dynasty foundation and trilogy notes, Living Civilization gameplay and realism notes, cross-release account continuity concepts, Hidden Chronicles Easter egg notes, character creation and space-jail brief, and the Itanimulli Legacy companion README.
