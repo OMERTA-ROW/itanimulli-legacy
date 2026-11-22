@@ -187,4 +187,12 @@ Use Bad Girls Club as a tonal reference for an original waterfront villa reality
 
 Tie the show to fictional ruling families. One house could own the villa, another could sponsor the season, and a younger relative could join the cast to build a public identity. During the reunion, a cast member can choose whether to back a roommate who challenged a sponsor's account of a public incident. That choice can change cast relationships, invitations from the houses, and future media contracts. The celebrity storyline extends into businesses, press, nightlife, and creator work across the city. Keep further show references and the final cast open.
 
+### Entertainment networks and the ruling class
+
+Use Zeus Network as a reference for a streaming outlet built around reality stars and reunions, Bravo for ensemble reality, E! for celebrity coverage, and Netflix for a broader streaming service that carries luxury reality programming. Create fictional networks and ownership structures for Gold Dynasty.
+
+Give rival ruling houses different ties to entertainment. One owns a reality streamer that commissions the villa show. Another backs a prestige channel that carries fashion launches and society coverage. An independent outlet bids for interviews and creator-led podcasts. Networks can commission shows, offer exclusive deals, compete for distribution, and decide what gets promoted. Players can move between cast, host, producer, and independent creator roles through the existing creator career.
+
+**Story example:** Two outlets want the same reunion interview. A royal-backed streamer offers a better contract and access to the palace gala. The independent outlet offers more control over the finished episode. The network that airs it shapes which audience hears the story first, and the player's choice affects later contracts and relationships with the houses.
+
 **Design references:** Gold Dynasty foundation and trilogy notes, Living Civilization gameplay and realism notes, cross-release account continuity concepts, Hidden Chronicles Easter egg notes, character creation and space-jail brief, and the Itanimulli Legacy companion README.
