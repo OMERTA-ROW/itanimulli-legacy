@@ -286,4 +286,11 @@ Tie the loss of office and its reputational consequences to the cause. A ruler s
 
 Use the existing succession and rediscovery mechanics as the handover framework. The story can choose which path fits, how recognition or fortune manifests, and in which release it happens.
 
+## 16. Weapons and close combat
+
+- **Sword fighting:** Include playable blade combat with readable attacks, guarding, parrying, and dodging. Give weapon families distinct handling. Story can introduce blades through the ancient setting and preserve selected designs as later relics.
+- **Unarmed fighting:** Include punches, kicks, blocks, and grapples as a playable option with its own stamina and timing. Use it in training, organized bouts, and appropriate encounters.
+- **One-on-one fighting:** Support both armed duels and unarmed bouts. Story can tie a duel to a rivalry or a challenge. Online can offer opt-in duels with agreed equipment rules. Keep duel outcomes distinct from ordinary city crime.
+- **Weapon roster:** Track swords and other melee weapons, ranged weapons suited to each era, and rare or secret relic weapons. Set the complete item list, access rules, handling, and Online balance during prototyping.
+
 **Design references:** Gold Dynasty foundation and trilogy notes, Living Civilization gameplay and realism notes, cross-release account continuity concepts, Hidden Chronicles Easter egg notes, character creation and space-jail brief, and the Itanimulli Legacy companion README.
