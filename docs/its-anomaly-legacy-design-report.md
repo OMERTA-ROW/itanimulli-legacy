@@ -233,4 +233,12 @@ Make everyday convenience-store goods, including chips and other packaged snacks
 
 Build a functioning hospital with intake, treatment, discharge, staff, and playable interiors. Online can include fictional hospital robbery scenarios with consequences tied to the city justice system. Include a secure holding unit beneath the hospital. If an in-game hospital incident leads to arrest, eligible characters can be booked into that unit. Injured characters receive care as needed. The unit handles short-term holding before release or transfer to the existing jail and court system, with prison following a custodial sentence. Keep emergency care and ordinary hospital activity available during incidents.
 
+## 13. Ground recreation, snowboarding, and aviation
+
+- **City and fairs:** Street and sport motorcycles for city travel, with playable go-karts at fairgrounds and dedicated tracks.
+- **Desert and foothills:** ATVs, dirt bikes, and dune buggies for trails, dunes, and off-road events. Give each distinct handling and terrain strengths.
+- **Mountains:** Playable snowboards on groomed runs and backcountry routes in the snowy upper territory. Include recreational descents and optional timed events.
+- **Civilian aviation:** Include light propeller and training aircraft, bush planes for remote strips, seaplanes for the inner-city ocean, private jets, passenger and cargo aircraft, and helicopters. Connect them to airports, mountain strips, marinas, and travel or transport jobs.
+- **Military aviation:** Include fictional fighter jets, transport aircraft, and helicopters tied to the military career and airfield postings. Define their flight roles, access, and Online balance during prototyping.
+
 **Design references:** Gold Dynasty foundation and trilogy notes, Living Civilization gameplay and realism notes, cross-release account continuity concepts, Hidden Chronicles Easter egg notes, character creation and space-jail brief, and the Itanimulli Legacy companion README.
