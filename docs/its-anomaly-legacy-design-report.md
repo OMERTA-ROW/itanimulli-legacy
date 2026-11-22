@@ -219,4 +219,12 @@ Use the same baseline crime rules and ambient crime settings across neighborhood
 
 Keep government operations running alongside the economy. Reported incidents can lead to investigation, arrest and local jail intake, then release or a court decision. A custodial sentence moves a character into the prison system. Jail and prison populations change with admissions, case outcomes, sentences, and releases. NPCs return to the wider economy after release and can seek work again.
 
+### Robbery tiers, destructible spaces, and luxury pricing
+
+Add fictional robbery encounters at local stores, wall-mounted and standalone ATMs, armored transports, bank branches, and large cash and gold repositories. Stores and ATMs offer smaller stakes. Armored-transport encounters sit between local incidents and major repository heists. Banks can move fictional reserves between branches and central repositories, creating history for the economy and a reason for higher-stakes missions. Record outcomes in the existing crime and justice systems.
+
+Make interiors playable through interactive vents, movable picture frames, concealed safes, breakable fixtures, and original vehicle recovery interactions for designated props. Use original mission layouts and game-specific interaction rules. Broad destructibility is a design goal. Start by testing one fully interactive store, including damage persistence, repair, and multiplayer agreement on who interacted with a prop and when.
+
+Use the same currency and baseline crime rules citywide. In luxury districts, make premium real estate, high-end services, and luxury goods substantially more expensive. Keep ordinary purchases and lower-cost options accessible across the wider city. A large payout should let players choose between saving, investing, and expensive status purchases. Tune prices and rewards together. Event location and security or insurance costs remain open.
+
 **Design references:** Gold Dynasty foundation and trilogy notes, Living Civilization gameplay and realism notes, cross-release account continuity concepts, Hidden Chronicles Easter egg notes, character creation and space-jail brief, and the Itanimulli Legacy companion README.
