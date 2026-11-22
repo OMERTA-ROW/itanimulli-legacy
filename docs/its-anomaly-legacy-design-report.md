@@ -303,4 +303,12 @@ Use the existing succession and rediscovery mechanics as the handover framework.
 
 Add a Gold Dynasty sports district with a large stadium that can switch between American football and soccer, plus a neighboring indoor ice hockey arena and a dedicated indoor basketball arena. The basketball arena supports playable exhibition games and spectator seating. Extend playable basketball to public park courts and home hoops where space permits, with pickup games and solo shooting practice in Story and Online. Plan for playable exhibitions and spectator access in Story and Online. Connect event days to the existing creator and entertainment careers through camera crew shifts, pregame shows, and performance bookings. Stadium location and full league rules remain open.
 
+### Live entertainment and fights across the city
+
+Add playable concert venues, arena performances, stadium halftime shows, and podcast studios in both Story and Online. Players can attend, perform, host, or work production. Story can feature authored bookings and interviews. Online can use shared event schedules and creator bookings.
+
+Allow fights to emerge across the open world at any time, including during games and at park courts. Let sports officials and venue staff react when play is disrupted. Preserve the boxing and MMA-inspired combat mix. Characters can draw a gun or knife during a fight, changing the encounter.
+
+Use distinct, fictional disarm mechanics for gun and knife encounters. Explore a timing-based counter, a stamina-based contest, and an environmental interruption that makes an opponent drop an equipped item. Give each a readable game cue, a failure outcome, and separate balance settings where needed. Route dropped items through existing inventory and Online ownership rules.
+
 **Design references:** Gold Dynasty foundation and trilogy notes, Living Civilization gameplay and realism notes, cross-release account continuity concepts, Hidden Chronicles Easter egg notes, character creation and space-jail brief, and the Itanimulli Legacy companion README.
