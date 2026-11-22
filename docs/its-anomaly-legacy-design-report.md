@@ -158,6 +158,8 @@ Connect the existing three or four territories across the first world and add a 
 
 **Expanded desert and long-term discovery:** Sketch the desert at roughly 45% of playable land as a provisional blockout target, with ocean area counted separately. Add depth between the pyramid district and the foothills while retaining the full waterfront city and massive snowboardable mountain territory. Give the desert distinct stretches of dune fields, oasis routes, caravan ruins, caves, and red-rock canyons. Build in permanent landmarks and discoveries at launch. Use recurring seasonal conditions and shifts in the landscape, such as storms uncovering a ruin or wildlife returning to an oasis, to reward repeat visits. Leave room for future Online discoveries over several years. Set final area and travel time after playtesting.
 
+**One-time discoveries and intentional glitches:** Record the first discovery and any reward once per player. Landmarks stay available to revisit, and recurring weather can give players who missed a clue another chance to see it. Revisits do not replay the original discovery or payout. As an optional Easter egg, a broken compass could briefly point to an oasis missing from the map and lead to an unusual Codex entry or cosmetic. Make the glitch a designed surprise with a finite payoff.
+
 ### Mountain territory and future encounters
 
 Reserve a large, explorable mountain territory beyond the desert, with multiple valleys, high passes, cavern networks, and a substantial snowy upper region. Give it room for travel routes, settlements, and later discoveries.
