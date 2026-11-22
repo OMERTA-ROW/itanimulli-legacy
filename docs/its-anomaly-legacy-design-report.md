@@ -177,4 +177,12 @@ Add a permanent amusement park on the inner-city ocean with a playable Ferris wh
 
 Traveling fairs can rotate through desert towns, city plazas, and mountain foothills as seasons change. Give each stop local food, games, performers, and prizes. In Story, a fair can host a character encounter or a local quest. Online, players can ride together, compete in midway games, sell food, or book a live set through the creator career. Treat locations, schedules, and ride selection as proposals while the map takes shape.
 
+## 12. Celebrity society in the Gold Dynasty storyline
+
+Use Dubai Bling as a tonal reference for luxury entrepreneurship, social circles, exclusive events, and rivalries that play out in public. Build original characters, businesses, venues, and plotlines for the modern campaign. Leave room to draw on additional celebrity-show concepts as the founder names them.
+
+**Proposed storyline:** A waterfront launch brings together a fashion founder, a nightlife owner, a celebrity host, and a creator. The player enters through an invitation, a performance booking, or a production job. When two patrons claim credit for the same launch, the player can choose whose version to air, negotiate a joint appearance, or walk away. That choice changes who trusts them, which invitations and contracts they receive, and what the city's media says about them.
+
+An original villa reality show can be one program in the city's media scene, with auditions, house dynamics, and confessionals. The celebrity storyline extends into businesses, press, nightlife, and creator work across the city. Keep further show references and the final cast open.
+
 **Design references:** Gold Dynasty foundation and trilogy notes, Living Civilization gameplay and realism notes, cross-release account continuity concepts, Hidden Chronicles Easter egg notes, character creation and space-jail brief, and the Itanimulli Legacy companion README.
