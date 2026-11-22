@@ -286,11 +286,15 @@ Tie the loss of office and its reputational consequences to the cause. A ruler s
 
 Use the existing succession and rediscovery mechanics as the handover framework. The story can choose which path fits, how recognition or fortune manifests, and in which release it happens.
 
-## 16. Weapons and close combat
+## 16. Full weapon inventory and combat
 
 - **Sword fighting:** Include playable blade combat with readable attacks, guarding, parrying, and dodging. Give weapon families distinct handling. Story can introduce blades through the ancient setting and preserve selected designs as later relics.
 - **Unarmed fighting:** Include punches, kicks, blocks, and grapples as a playable option with its own stamina and timing. Use it in training, organized bouts, and appropriate encounters.
 - **One-on-one fighting:** Support both armed duels and unarmed bouts. Story can tie a duel to a rivalry or a challenge. Online can offer opt-in duels with agreed equipment rules. Keep duel outcomes distinct from ordinary city crime.
-- **Weapon roster:** Track swords and other melee weapons, ranged weapons suited to each era, and rare or secret relic weapons. Set the complete item list, access rules, handling, and Online balance during prototyping.
+- **Ancient arsenal:** Swords and khopeshes, daggers, spears and polearms, axes, clubs and maces, bows and slings, shields, and era-specific siege equipment.
+- **Modern arsenal:** Handguns and revolvers, shotguns, submachine guns, carbines and rifles, precision rifles, and support weapons. Include civilian, police, and military roles in the game's access rules.
+- **Special categories:** Include fictional heavy and mounted weapons for eligible vehicles or roles, plus hidden weapons, unique relics, and ceremonial variants. Use the established military path for restricted equipment.
+- **Playable inventory:** Track owned, stored, and equipped items. Include ammunition, compatible attachments, tool and equipment slots, protective gear, condition, repairs, holsters, storage, and saved loadouts. Connect acquisition to in-game shops, crafting, contracts, role progression, and discoveries.
+- **Mode and era rules:** Maintain a shared catalog with era and role eligibility. Story encounters and Online matches can use different balance settings. Keep opt-in duel rules and the established Online rule that killing a player does not transfer their possessions. The categories define the roster scope. Exact item variants, stats, unlocks, and balancing are production work.
 
 **Design references:** Gold Dynasty foundation and trilogy notes, Living Civilization gameplay and realism notes, cross-release account continuity concepts, Hidden Chronicles Easter egg notes, character creation and space-jail brief, and the Itanimulli Legacy companion README.
