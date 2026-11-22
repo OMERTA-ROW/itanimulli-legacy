@@ -25,7 +25,7 @@ The first world uses fictional geography inspired by Dubai, Abu Dhabi, Cairo, Gi
 
 ## 2. The living civilization
 
-**Open-world play is the default across Story and Online.** Put sports, fights, pickups, jobs, concerts, and discoveries directly in the playable world. Characters can encounter and interact with activities in place. Scheduled events and authored missions take place within that world and use its shared rules, so nearby players and NPCs can respond as appropriate. Preserve each mode’s own world state.
+**Open-world play is the default across Story and Online.** Put sports, fights, pickups, jobs, concerts, and discoveries directly in the playable world. Characters can encounter and interact with activities in place. Scheduled events and authored missions take place within that world and use its shared rules, so nearby players and NPCs can respond as appropriate. Preserve each mode’s own world state. Homes, businesses, and other playable interiors exist in the open world with no owner-only private instances. Ownership can still be represented in the world. Make everyday props interactive down to the smallest relevant detail: players can pick up and open boxes, handle their contents, eat food, and drink beverages. If a character starts with coffee in their setup, that cup is already a usable item. Give props actions that fit their purpose and make the resulting state visible to nearby players in Online.
 
 | System | Player interaction | Consequence in the world |
 | --- | --- | --- |
