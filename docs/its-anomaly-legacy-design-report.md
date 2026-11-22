@@ -205,4 +205,10 @@ Place the bring-your-own-content link feature and creator contract progression i
 
 Major offers are rare. A fictional network or ruling-house entertainment company might offer a creator a contract worth $2 million in game currency to keep producing episodes, provide tracks, or grant limited rights to feature selected work. Show total value, up-front payment, milestone or recurring payments, deliverables, term, and exclusivity before acceptance. Let players negotiate or decline. Treat the figure as an illustrative payout subject to balancing, and keep in-game contract earnings separate from any external creator revenue. Give camera crews and producers paid assignments tied to the resulting shows and events.
 
+### Spending, wealth, and neighborhood crime in Online
+
+Make a major contract a meaningful gain with choices about where the money goes. A creator can bank the payout, rent studio time, hire a crew, lease a venue, or put a substantial share into buying and outfitting a studio. Show any expected delivery costs before signing and distinguish them from optional upgrades. Price premium property, equipment, and production at scales that can absorb part of a windfall. Leave room for savings and profit, especially when players already have equipment or choose a lean production. Tune prices and payouts together through playtesting.
+
+Track a rolling neighborhood crime rate based on simulated incidents. Let it rise and cool over time, with visible effects on businesses, event staffing, and local news. For example, a venue in a district seeing more incidents might change its schedule or offer paid security shifts. Give players ways to respond through lawful community and business roles. Apply ordinary operating costs and any chosen security expense transparently, with crime pressure varying by place and time.
+
 **Design references:** Gold Dynasty foundation and trilogy notes, Living Civilization gameplay and realism notes, cross-release account continuity concepts, Hidden Chronicles Easter egg notes, character creation and space-jail brief, and the Itanimulli Legacy companion README.
