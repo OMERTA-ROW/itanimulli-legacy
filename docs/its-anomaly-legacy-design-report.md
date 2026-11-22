@@ -126,6 +126,14 @@ The Duat space-jail intake remains the proposed separate future-era opening. Pla
 | The Forgotten Pharaoh | Follow a fragmentary inscription and compare it with a second record found by another player | A hidden chamber, a lost chapter of local history, and credit for the discoverers |
 | Shifting desert passage | Revisit a familiar landmark after a sandstorm changes the terrain | A temporary route to a relic site, with clues that can reappear during a later storm |
 
+### Ghost Easter eggs
+
+- **The drowned ferryman.** On foggy nights, a silent boat crosses the old harbor and vanishes beside a pier that no longer exists. Following it reveals a submerged memorial and the names of a missing crew.
+- **The palace procession.** During an eclipse, ghostly figures cross an abandoned royal courtyard. Follow their route to find a sealed room and a record that challenges the official account of a ruler’s disappearance.
+- **The voice on the radio.** An unused station briefly broadcasts an old emergency announcement. The location it names leads to a site where explorers can compare the broadcast with surviving records.
+
+Let players witness these alone or compare clues with friends. Some sightings can stay unexplained. Others can unlock local history in the Legacy Codex. Rare conditions should recur so players have another chance to discover them.
+
 Mix permanent landmarks, rare weather-driven encounters, and clues that players can piece together over multiple sessions. Save individual and group discovery credit. Share discoveries through optional rumors and Codex records so explorers can choose how much to reveal. Repeatable access can keep rare discoveries playable after a server first. Test the impact of secret weapons on competitive balance.
 
 For the first Online district, prototype one hidden weapon, one creature encounter, and one mystery that rewards sharing clues. Keep the exact Story transition between eras open for further discussion.
