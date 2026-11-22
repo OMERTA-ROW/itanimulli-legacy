@@ -227,4 +227,10 @@ Make interiors playable through interactive vents, movable picture frames, conce
 
 Use the same currency and baseline crime rules citywide. In luxury districts, make premium real estate, high-end services, and luxury goods substantially more expensive. Keep ordinary purchases and lower-cost options accessible across the wider city. A large payout should let players choose between saving, investing, and expensive status purchases. Tune prices and rewards together. Event location and security or insurance costs remain open.
 
+### Playable daily life, hospitals, and secure holding
+
+Make everyday convenience-store goods, including chips and other packaged snacks, purchasable, carryable, and consumable. Snacks can briefly relieve hunger, meals provide longer-lasting nourishment, and hospital care handles serious injuries through simplified game rules. Keep health manageable during ordinary play. Give the luxury lifestyle concrete benefits such as premium services, event access, and opportunities to pitch for higher-value contracts. Premium spending opens opportunities while reputation and performance still matter.
+
+Build a functioning hospital with intake, treatment, discharge, staff, and playable interiors. Online can include fictional hospital robbery scenarios with consequences tied to the city justice system. Include a secure holding unit beneath the hospital. If an in-game hospital incident leads to arrest, eligible characters can be booked into that unit. Injured characters receive care as needed. The unit handles short-term holding before release or transfer to the existing jail and court system, with prison following a custodial sentence. Keep emergency care and ordinary hospital activity available during incidents.
+
 **Design references:** Gold Dynasty foundation and trilogy notes, Living Civilization gameplay and realism notes, cross-release account continuity concepts, Hidden Chronicles Easter egg notes, character creation and space-jail brief, and the Itanimulli Legacy companion README.
