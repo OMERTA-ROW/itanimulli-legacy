@@ -183,6 +183,8 @@ Use Dubai Bling as a tonal reference for luxury entrepreneurship, social circles
 
 **Proposed storyline:** A waterfront launch brings together a fashion founder, a nightlife owner, a celebrity host, and a creator. The player enters through an invitation, a performance booking, or a production job. When two patrons claim credit for the same launch, the player can choose whose version to air, negotiate a joint appearance, or walk away. That choice changes who trusts them, which invitations and contracts they receive, and what the city's media says about them.
 
-An original villa reality show can be one program in the city's media scene, with auditions, house dynamics, and confessionals. The celebrity storyline extends into businesses, press, nightlife, and creator work across the city. Keep further show references and the final cast open.
+Use Bad Girls Club as a tonal reference for an original waterfront villa reality show with auditions, strong personalities, shifting friendships, confessionals, and a reunion. Players can audition as cast or join production through the creator career.
+
+Tie the show to fictional ruling families. One house could own the villa, another could sponsor the season, and a younger relative could join the cast to build a public identity. During the reunion, a cast member can choose whether to back a roommate who challenged a sponsor's account of a public incident. That choice can change cast relationships, invitations from the houses, and future media contracts. The celebrity storyline extends into businesses, press, nightlife, and creator work across the city. Keep further show references and the final cast open.
 
 **Design references:** Gold Dynasty foundation and trilogy notes, Living Civilization gameplay and realism notes, cross-release account continuity concepts, Hidden Chronicles Easter egg notes, character creation and space-jail brief, and the Itanimulli Legacy companion README.
