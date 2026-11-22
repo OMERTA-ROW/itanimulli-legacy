@@ -341,4 +341,10 @@ Layer a secret military detention program beneath the ordinary penitentiary. The
 - **Middle:** Prison testimony, an old site plan, and council records point to the same facility. Ordinary phones and computers help players compare records. Each route can lead to the bunker, with different characters and evidence along the way.
 - **End:** Resolve the local story by giving players a choice to expose the program, bring evidence to an ally, or keep the discovery secret. Let the choice affect public trust, prison oversight, and later story access. Leave the wider relationship between the Nephilim and the Anunnaki open for the trilogy.
 
+### Layers of influence
+
+Build distinct fictional organizations with their own members, resources, rivalries, goals, and secrets. At the community level, local lodges inspired by fraternal orders connect neighborhood leaders, merchants, and civic projects. At the business level, private societies connect commercial interests and ruling families. Government branches maintain their own agendas and restricted records, with individuals and families crossing between institutions. At the elite level, an Illuminati-inspired circle connects political figures, celebrity circles, and media influence. These are fictional game factions.
+
+A player can encounter this ecosystem through street politics, a business deal, a creator booking, or the criminal storyline. For example, a neighborhood event grant can connect a lodge to a sponsor whose name also appears in disputed bunker funding records. Each group knows only part of the picture. Clues can point toward the wider Anunnaki mystery while leaving room for independent agendas and conflicting accounts.
+
 **Design references:** Gold Dynasty foundation and trilogy notes, Living Civilization gameplay and realism notes, cross-release account continuity concepts, Hidden Chronicles Easter egg notes, character creation and space-jail brief, and the Itanimulli Legacy companion README.
