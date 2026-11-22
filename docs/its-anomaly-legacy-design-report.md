@@ -165,6 +165,8 @@ Reserve a large, explorable mountain territory beyond the desert, with multiple 
 - **Giants:** Remote basins and oversized ruins can hint at their presence before players encounter one.
 - **Nephilim:** Reserve sites for a deeper lore thread, with possible traces in high ruins or sealed chambers. Keep their relationship to giants and the ancient civilization open for the founder to develop.
 
+**Mountain wildlife in both modes:** Populate dry foothills with ibex and foxes, rocky cliffs with nesting raptors, and snowy upper valleys with cold-adapted wildlife. Give animals seasonal movement, shelter, and recognizable signs such as tracks and calls. In Story, a local guide might teach the player to read fresh tracks and find a pass. In Online, players can compare sightings and follow seasonal herds together. The final species list depends on the terrain and climate design.
+
 Give Story and Online each a substantial share of the mountain discoveries. Story should offer satisfying encounters and lore within the campaign. Online should have discoveries of its own, including mysteries players can investigate together. Keep the placement of Yetis, trolls, giants, and Nephilim open, including whether selected creatures appear in both modes through different encounters.
 
 Treat these as future encounter concepts. Exact habitats, behavior, story roles, and discovery conditions remain open while the terrain is modeled.
