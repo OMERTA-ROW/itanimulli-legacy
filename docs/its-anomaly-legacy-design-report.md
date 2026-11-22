@@ -199,4 +199,10 @@ Give rival ruling houses different ties to entertainment. One owns a reality str
 
 **Story example:** Two outlets want the same reunion interview. A royal-backed streamer offers a better contract and access to the palace gala. The independent outlet offers more control over the finished episode. The network that airs it shapes which audience hears the story first, and the player's choice affects later contracts and relationships with the houses.
 
+### Online creator income and network contracts
+
+Place the bring-your-own-content link feature and creator contract progression in Online. Players can submit authorized links to existing music, podcasts, or videos via the inbox or optional phone handoff. Offer small recurring in-game income through bookings, production shifts, and repeat commissions. Track delivery history and public reputation so scouts can discover a player through a performance, an approved portfolio link, or word of mouth. A scout could approach the creator directly at a venue, gala, or other public event.
+
+Major offers are rare. A fictional network or ruling-house entertainment company might offer a creator a contract worth $2 million in game currency to keep producing episodes, provide tracks, or grant limited rights to feature selected work. Show total value, up-front payment, milestone or recurring payments, deliverables, term, and exclusivity before acceptance. Let players negotiate or decline. Treat the figure as an illustrative payout subject to balancing, and keep in-game contract earnings separate from any external creator revenue. Give camera crews and producers paid assignments tied to the resulting shows and events.
+
 **Design references:** Gold Dynasty foundation and trilogy notes, Living Civilization gameplay and realism notes, cross-release account continuity concepts, Hidden Chronicles Easter egg notes, character creation and space-jail brief, and the Itanimulli Legacy companion README.
