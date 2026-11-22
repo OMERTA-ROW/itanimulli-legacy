@@ -171,4 +171,10 @@ Give Story and Online each a substantial share of the mountain discoveries. Stor
 
 Treat these as future encounter concepts. Exact habitats, behavior, story roles, and discovery conditions remain open while the terrain is modeled.
 
+## 11. Carnivals, fairs, and theme parks
+
+Add a permanent amusement park on the inner-city ocean with a playable Ferris wheel overlooking the strait, midway games, food stalls, live stages, and room for more rides. Connect it to the waterfront by boardwalk and ferry.
+
+Traveling fairs can rotate through desert towns, city plazas, and mountain foothills as seasons change. Give each stop local food, games, performers, and prizes. In Story, a fair can host a character encounter or a local quest. Online, players can ride together, compete in midway games, sell food, or book a live set through the creator career. Treat locations, schedules, and ride selection as proposals while the map takes shape.
+
 **Design references:** Gold Dynasty foundation and trilogy notes, Living Civilization gameplay and realism notes, cross-release account continuity concepts, Hidden Chronicles Easter egg notes, character creation and space-jail brief, and the Itanimulli Legacy companion README.
