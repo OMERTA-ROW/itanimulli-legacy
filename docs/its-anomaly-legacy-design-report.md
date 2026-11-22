@@ -10,6 +10,19 @@
 
 The first world uses fictional geography inspired by Dubai, Abu Dhabi, Cairo, Giza, and ancient Egyptian landscapes. Target three distinct, connected worlds across the trilogy. Each has an aspirational playable scale around 1.5 times the GTA VI reference. The benchmark area and final dimensions remain open. Count playable water separately and prioritize density. The Duat space-jail concept remains a future-era entry point with booking-photo character creation. The Story campaign runs from the ancient opening into modern Gold Dynasty within one game. The structure of later titles remains open.
 
+### Comparison and combined design
+
+| Area | Rise and Fall of Kings foundation | Gold Dynasty expansion | It’s Anomaly Legacy |
+| --- | --- | --- | --- |
+| Setting | Ancient capital, markets, settlements, pyramids, and tombs | Modern waterfront metropolis, inland sea, expanded desert, and snowboardable mountains | Use the ancient setting to establish places and institutions that can change across eras |
+| Wealth and work | Trade, farming, mining, crafting, alliances, and royal patronage | Modern jobs, property, premium spending, creator and developer contracts, and media networks | Wealth comes from playable careers. How players use it shapes their rise, standing, and legacy |
+| Fame and power | A rise from ordinary life to rulership, with real consequences for how one rules | Public recognition through business, entertainment, ruling families, and city government | Rich and famous is a recurring theme. Public memory can outlast office and wealth |
+| Fall and succession | Death, sealing, and continuation through an eligible successor | Justice, loss of office, and city institutions that keep operating through a change of ruler | Circumstances determine the fall and who carries the world forward |
+| Rediscovery and return | Tombs, inscriptions, and relics preserve the ruler’s story | Later characters uncover the past in a changed society | The original ruler may return, or a different character may receive fame and fortune on the former ruler’s scale |
+| Story and Online | Authored rise, fall, and legacy provide a campaign foundation | Shared city economy, player careers, crime, multiplayer discoveries, and recurring events | Share the civilization design and keep separate histories. The campaign can connect the ancient and modern eras. The timing of a return can depend on the storyline, including a later release |
+
+**Combined flow:** Build a livelihood and a name, turn that standing into influence, shape the civilization through choices, and leave a history another character can inherit or rediscover. Use the detailed sections below for each system. Scope, release placement, and the precise rules for succession and return remain open where the underlying notes leave them open.
+
 ## 2. The living civilization
 
 | System | Player interaction | Consequence in the world |
