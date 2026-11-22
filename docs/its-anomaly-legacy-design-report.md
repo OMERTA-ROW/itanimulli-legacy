@@ -297,4 +297,8 @@ Use the existing succession and rediscovery mechanics as the handover framework.
 - **Playable inventory:** Track owned, stored, and equipped items. Include ammunition, compatible attachments, tool and equipment slots, protective gear, condition, repairs, holsters, storage, and saved loadouts. Connect acquisition to in-game shops, crafting, contracts, role progression, and discoveries.
 - **Mode and era rules:** Maintain a shared catalog with era and role eligibility. Story encounters and Online matches can use different balance settings. Keep opt-in duel rules and the established Online rule that killing a player does not transfer their possessions. The categories define the roster scope. Exact item variants, stats, unlocks, and balancing are production work.
 
+## 17. Stadium and hockey arena
+
+Add a Gold Dynasty sports district with a large stadium that can switch between American football and soccer, plus a neighboring indoor ice hockey arena. Plan for playable exhibitions and spectator access in Story and Online. Connect event days to the existing creator and entertainment careers through camera crew shifts, pregame shows, and performance bookings. Stadium location and full league rules remain open.
+
 **Design references:** Gold Dynasty foundation and trilogy notes, Living Civilization gameplay and realism notes, cross-release account continuity concepts, Hidden Chronicles Easter egg notes, character creation and space-jail brief, and the Itanimulli Legacy companion README.
