@@ -92,4 +92,21 @@ Prove the connection with one district. Book a creator event, confirm the venue 
 
 This cloud service runs and saves the world. Cloud play can connect to it the same way a local game client does. Provider, region, capacity, and operating budget are open. Status is architecture proposal.
 
+## 8. Story and Online
+
+**Proposed split:** Put Story and Online side by side on the main menu. Share the civilization model, districts, and gameplay rules where practical. Give each Story campaign its own private world state and each Online world its own shared state, save history, economy, and progression. Story runs on the player's pace. Online runs on the world's pace. The cloud can back up private Story saves and host shared Online worlds under separate world IDs and access rules.
+
+### Story opening — from the outskirts to the capital
+
+1. **Arrive at the market.** Begin on the outskirts of the ancient kingdom. Bring goods through the capital gate, meet a merchant, and earn a first stake.
+2. **Follow the missing shipment.** A disrupted route raises prices. The player can help suppliers reopen trade, take a patron's offer, or negotiate a deal with a rival. Those choices build different relationships and give the player something to lose.
+3. **Choose how to gain influence.** Trade, craft, politics, military service, or religious networks can lead toward ownership, public standing, or royal power. Becoming a ruler stays optional.
+4. **Leave a record.** A business, decree, relic, family tie, or public dispute becomes a trace that a later Gold Dynasty protagonist can rediscover in the modern city. Exact succession and era-transition rules are open.
+
+### Online entry and the shared world
+
+The Duat space-jail intake remains the proposed separate future-era opening. Players create a character, complete the intake sequence, and enter a shared world where other players and NPCs shape the economy, careers, factions, and events. Final timeline placement remains open. The default proposal gives each mode independent money, property, ranks, and inventories. A later opt-in bridge could display read-only family symbols, records, or cosmetic recognition in a Legacy Codex without granting economic or political power.
+
+**First test:** Use one district in two separate worlds. Resolve a supply disruption in Story, then change the same district through shared play Online. Reload both and verify each mode retains its own outcomes.
+
 **Design references:** Gold Dynasty foundation and trilogy notes, Living Civilization gameplay and realism notes, cross-release account continuity concepts, Hidden Chronicles Easter egg notes, character creation and space-jail brief, and the Itanimulli Legacy companion README.
