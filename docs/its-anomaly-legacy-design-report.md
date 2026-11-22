@@ -25,6 +25,8 @@ The first world uses fictional geography inspired by Dubai, Abu Dhabi, Cairo, Gi
 
 ## 2. The living civilization
 
+**Open-world play is the default across Story and Online.** Put sports, fights, pickups, jobs, concerts, and discoveries directly in the playable world. Characters can encounter and interact with activities in place. Scheduled events and authored missions take place within that world and use its shared rules, so nearby players and NPCs can respond as appropriate. Preserve each mode’s own world state.
+
 | System | Player interaction | Consequence in the world |
 | --- | --- | --- |
 | Land and construction | Acquire land, commission modular designs, hire labor, build workshops, roads, irrigation, homes, palaces, and hidden spaces | Terrain, resources, upkeep, and transport determine what a settlement can sustain |
