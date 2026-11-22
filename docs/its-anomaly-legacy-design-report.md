@@ -156,4 +156,15 @@ Connect the existing three or four territories across the first world and add a 
 
 **Recommended mountain profile:** Build a predominantly desert mountain range. Begin with dry foothills and red-rock canyons, climb through high passes, then reach a small, high summit zone with seasonal snow. The elevation transition keeps the range connected to the desert while giving the peak its own travel conditions, scenery, and discoveries. Preserve a fully dry range as an option while the world is being modeled.
 
+### Mountain territory and future encounters
+
+Reserve a large, explorable mountain territory beyond the desert, with multiple valleys, high passes, cavern networks, and a substantial snowy upper region. Give it room for travel routes, settlements, and later discoveries.
+
+- **Yetis:** Early ideas include tracks in snowfields and rare sightings near high ridgelines.
+- **Trolls:** Rocky ravines, caves, and old crossings give them distinct terrain.
+- **Giants:** Remote basins and oversized ruins can hint at their presence before players encounter one.
+- **Nephilim:** Reserve sites for a deeper lore thread, with possible traces in high ruins or sealed chambers. Keep their relationship to giants and the ancient civilization open for the founder to develop.
+
+Treat these as future encounter concepts. Exact habitats, behavior, story roles, and discovery conditions remain open while the terrain is modeled.
+
 **Design references:** Gold Dynasty foundation and trilogy notes, Living Civilization gameplay and realism notes, cross-release account continuity concepts, Hidden Chronicles Easter egg notes, character creation and space-jail brief, and the Itanimulli Legacy companion README.
