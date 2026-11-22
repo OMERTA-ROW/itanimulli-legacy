@@ -140,6 +140,10 @@ Let players witness these alone or compare clues with friends. Some sightings ca
 - **The second shadow.** An unidentified craft passes over the dunes during a meteor shower. Players who track its shadow find a piece of material etched with a pattern also visible in an ancient observatory. Comparing the two points to a second site.
 - **The signal beneath the salt flats.** At certain times an old radio picks up a repeating sequence. Follow it to a buried relay that briefly projects an unfamiliar star map. Its connection to the Duat can remain an open mystery.
 
+### The Storm-Crowned Guardian
+
+An Online Easter egg inspired by the lightning-champion stories of Black Adam and Shazam. During a desert thunderstorm, lightning illuminates carvings on a ruined gate in sequence. Read them in order to open a temple chamber where an ancient guardian awakens. The guardian asks the player to carry a spark to the city's old beacon before the storm passes. Completing the trial lights the beacon for nearby players, records the discovery in the Legacy Codex, and awards a lightning-themed cosmetic. The guardian, costume, insignia, dialogue, and lore are original to It's Anomaly.
+
 Mix permanent landmarks, rare weather-driven encounters, and clues that players can piece together over multiple sessions. Save individual and group discovery credit. Share discoveries through optional rumors and Codex records so explorers can choose how much to reveal. Repeatable access can keep rare discoveries playable after a server first. Test the impact of secret weapons on competitive balance.
 
 For the first Online district, prototype one hidden weapon, one creature encounter, and one mystery that rewards sharing clues. Keep the exact Story transition between eras open for further discussion.
