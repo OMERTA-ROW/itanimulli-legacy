@@ -74,4 +74,22 @@ Make creator a playable career alongside musicians, actors, influencers, journal
 
 **Open design decisions:** era and title structure, dynasty stability and decline, succession and inheritance, pace of technological change, boundaries between single-player and shared history, rules for multiple sovereign territories, creator provider support and moderation, and production map size.
 
+## 7. The civilization as the shared world
+
+Treat the living civilization as the common game model. Government, businesses, venues, creator careers, property, and dynasties all act on the same version of the world. A creator booking can affect venue income and local reputation. A port closure can change prices and job offers. Consequential events from both can become part of a later era's history.
+
+| Component | Responsibility |
+| --- | --- |
+| Game client | Displays the world and sends player actions to an authenticated game server |
+| Authoritative world server | Validates actions, runs simulation rules, and tells connected players what changed |
+| PostgreSQL | Stores current world state and durable history, including settlements, NPCs, rulers, laws, businesses, property, contracts, artifacts, and significant events |
+| Private object storage | Holds world snapshots, backup exports, and approved media files. External videos and podcasts can be represented by links and moderation status |
+| Companion site and phone links | Access authorized views or scoped submission endpoints through the server API |
+
+Start with one studio-controlled cloud environment, a single test world, a managed PostgreSQL instance, and a private storage bucket. Give each world its own identity and scope reads and writes by world. Keep the database private to the service. Persist lasting state changes and related history together. Use snapshots, scheduled backups, and tested restores to recover a world. Keep account data and notification preferences access-controlled. Apply retention rules to temporary simulation data such as movement updates.
+
+Prove the connection with one district. Book a creator event, confirm the venue and reputation records update, restart the world server, and verify the event and its effects are still there. Restore a snapshot into an isolated test world and check the same records. The history can later feed the Legacy Codex and era transitions as those rules are decided.
+
+This cloud service runs and saves the world. Cloud play can connect to it the same way a local game client does. Provider, region, capacity, and operating budget are open. Status is architecture proposal.
+
 **Design references:** Gold Dynasty foundation and trilogy notes, Living Civilization gameplay and realism notes, cross-release account continuity concepts, Hidden Chronicles Easter egg notes, character creation and space-jail brief, and the Itanimulli Legacy companion README.
