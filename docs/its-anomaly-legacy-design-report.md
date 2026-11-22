@@ -211,4 +211,12 @@ Make a major contract a meaningful gain with choices about where the money goes.
 
 Allow player-initiated crimes, including attempted robberies, across Online neighborhoods at any time. Apply the same baseline rules citywide regardless of neighborhood wealth, player status, or time of day. Track a rolling neighborhood crime rate from both player and NPC incidents so actual activity can produce temporary hotspots. Connect the rate to in-game reporting, patrol response, venue staffing, and local news, while keeping ordinary interactions such as shopping, working, and attending events available. Let it rise and cool over time, with visible effects on businesses, event staffing, and local news. For example, a venue in a district seeing more incidents might change its schedule or offer paid security shifts. Give players ways to respond through lawful community and business roles. Apply ordinary operating costs and any chosen security expense transparently, with crime pressure varying by place and time.
 
+### Employment, class, and the justice system
+
+Use one money-based economy across luxury, middle-income, and low-income households. NPCs earn and spend across the same city. Aim initially for roughly nine out of ten working-age NPCs to have regular work or another productive livelihood, including jobs, trades, business ownership, and gold prospecting or mining. Treat this as a simulation target to tune. Include NPCs who are between jobs and can seek work or earn through other paths.
+
+Use the same baseline crime rules and ambient crime settings across neighborhoods and income levels. City life is generally ordinary work, trade, and social activity. Player and NPC incidents can happen anywhere and may briefly change observed local crime rates. Income and employment status alone never determine criminal behavior.
+
+Keep government operations running alongside the economy. Reported incidents can lead to investigation, arrest and local jail intake, then release or a court decision. A custodial sentence moves a character into the prison system. Jail and prison populations change with admissions, case outcomes, sentences, and releases. NPCs return to the wider economy after release and can seek work again.
+
 **Design references:** Gold Dynasty foundation and trilogy notes, Living Civilization gameplay and realism notes, cross-release account continuity concepts, Hidden Chronicles Easter egg notes, character creation and space-jail brief, and the Itanimulli Legacy companion README.
