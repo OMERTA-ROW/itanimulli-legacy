@@ -148,4 +148,12 @@ Mix permanent landmarks, rare weather-driven encounters, and clues that players 
 
 For the first Online district, prototype one hidden weapon, one creature encounter, and one mystery that rewards sharing clues. Keep the exact Story transition between eras open for further discussion.
 
+## 10. Inner-city ocean and mountain territory
+
+Connect the existing three or four territories across the first world and add a distinct mountain territory on the far side of the desert. Keep the exact territory count and borders open.
+
+**Inner-city ocean:** Bring a broad inlet of seawater into the city. Connect it to the open ocean through a navigable strait. Skyline waterfronts, beaches, and working ports face the inner water. Players can take a boat from an inner-city marina through the strait and out into open ocean. Give the inlet enough width and depth to feel like a sea inside the city.
+
+**Recommended mountain profile:** Build a predominantly desert mountain range. Begin with dry foothills and red-rock canyons, climb through high passes, then reach a small, high summit zone with seasonal snow. The elevation transition keeps the range connected to the desert while giving the peak its own travel conditions, scenery, and discoveries. Preserve a fully dry range as an option while the world is being modeled.
+
 **Design references:** Gold Dynasty foundation and trilogy notes, Living Civilization gameplay and realism notes, cross-release account continuity concepts, Hidden Chronicles Easter egg notes, character creation and space-jail brief, and the Itanimulli Legacy companion README.
