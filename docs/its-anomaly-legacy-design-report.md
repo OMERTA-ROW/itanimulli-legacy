@@ -347,4 +347,8 @@ Build distinct fictional organizations with their own members, resources, rivalr
 
 A player can encounter this ecosystem through street politics, a business deal, a creator booking, or the criminal storyline. For example, a neighborhood event grant can connect a lodge to a sponsor whose name also appears in disputed bunker funding records. Each group knows only part of the picture. Clues can point toward the wider Anunnaki mystery while leaving room for independent agendas and conflicting accounts.
 
+### Prison contact and faction discovery
+
+An investigation can lead to charges and custody, where a player might meet someone tied to a fictional lodge, business society, or elite circle. The contact can offer a small favor, an introduction, or a lead that becomes available after release. One lead could open an authored robbery mission worth around 100,000 Itanimulli Coins, subject to balance. Other leads could reveal ties between local criminal crews and a regional chapter. The payoff brings money and limited influence, while accepting an offer can create a debt or rivalry. Players can decline, investigate the contact's claims, or follow the lead. This is one optional point of discovery alongside the reporter, political, and exploration routes.
+
 **Design references:** Gold Dynasty foundation and trilogy notes, Living Civilization gameplay and realism notes, cross-release account continuity concepts, Hidden Chronicles Easter egg notes, character creation and space-jail brief, and the Itanimulli Legacy companion README.
