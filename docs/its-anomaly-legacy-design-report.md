@@ -4,11 +4,11 @@
 
 ## 1. One project, two design foundations
 
-**Rise of the Kings** supplies the ancient foundation: the climb from market vendor to ruler, competing pharaohs, settlement building, royal houses, councils, succession, tombs, and relics. Preserve its identity as the historical foundation and a possible in-world discovery or Easter egg. Its final title and chapter placement remain open.
+**Rise of the Kings** supplies the ancient foundation: the climb from market vendor to ruler, competing pharaohs, settlement building, royal houses, councils, succession, tombs, and relics. Preserve its identity as the historical foundation and a possible in-world discovery or Easter egg. It serves as the ancient opening of the Story campaign. Chapter naming remains open.
 
 **Gold Dynasty** expands the playable civilization into a modern coastal world. Ancient royal institutions, architecture, monuments, bloodlines, and mysteries shape a contemporary society with ports, nightlife, industry, entertainment, government, crime, and luxury. A modern character can build a career without entering the royal storyline. **It’s Anomaly Legacy** connects these design foundations through the history players create and what later generations find.
 
-The first world uses fictional geography inspired by Dubai, Abu Dhabi, Cairo, Giza, and ancient Egyptian landscapes. Target three distinct, connected worlds across the trilogy. Each has an aspirational playable scale around 1.5 times the GTA VI reference. The benchmark area and final dimensions remain open. Count playable water separately and prioritize density. The Duat space-jail concept remains a future-era entry point with booking-photo character creation. Era order and the structure of later titles remain open.
+The first world uses fictional geography inspired by Dubai, Abu Dhabi, Cairo, Giza, and ancient Egyptian landscapes. Target three distinct, connected worlds across the trilogy. Each has an aspirational playable scale around 1.5 times the GTA VI reference. The benchmark area and final dimensions remain open. Count playable water separately and prioritize density. The Duat space-jail concept remains a future-era entry point with booking-photo character creation. The Story campaign runs from the ancient opening into modern Gold Dynasty within one game. The structure of later titles remains open.
 
 ## 2. The living civilization
 
@@ -72,7 +72,7 @@ Make creator a playable career alongside musicians, actors, influencers, journal
 4. **Legacy slice.** Save one player-created institution, one successor, and one artifact. Advance to a sample later era and show the results in the Codex. Verify repeated import, separate playthroughs, and predictable recovery after a failed transition.
 5. **Scale validation.** Measure NPC simulation, multiplayer persistence, streaming latency, interaction density, and water traversal before committing to map or platform targets.
 
-**Open design decisions:** era and title structure, dynasty stability and decline, succession and inheritance, pace of technological change, boundaries between single-player and shared history, rules for multiple sovereign territories, creator provider support and moderation, and production map size.
+**Open design decisions:** the structure of later titles, dynasty stability and decline, succession and inheritance, pace of technological change, boundaries between single-player and shared history, rules for multiple sovereign territories, creator provider support and moderation, and production map size.
 
 ## 7. The civilization as the shared world
 
@@ -102,6 +102,12 @@ This cloud service runs and saves the world. Cloud play can connect to it the sa
 2. **Follow the missing shipment.** A disrupted route raises prices. The player can help suppliers reopen trade, take a patron's offer, or negotiate a deal with a rival. Those choices build different relationships and give the player something to lose.
 3. **Choose how to gain influence.** Trade, craft, politics, military service, or religious networks can lead toward ownership, public standing, or royal power. Becoming a ruler stays optional.
 4. **Leave a record.** A business, decree, relic, family tie, or public dispute becomes a trace that a later Gold Dynasty protagonist can rediscover in the modern city. Exact succession and era-transition rules are open.
+
+### One game across two eras
+
+Rise of the Kings opens the campaign. Gold Dynasty continues that same campaign in the modern city. The era transition should use the player's own history. For example, a deal that reopens a trade route in the ancient chapter could leave a family seal and a charter that the modern protagonist discovers during a dispute over the old market site. That discovery gives the modern chapter its own stakes and makes the ancient choices matter in play.
+
+Use one Story campaign save across both eras. The length of the ancient opening, the modern protagonist's connection to the opening character, and the exact legacy rules remain open.
 
 ### Online entry and the shared world
 
