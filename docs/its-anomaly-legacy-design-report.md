@@ -193,6 +193,10 @@ Use Zeus Network as a reference for a streaming outlet built around reality star
 
 Give rival ruling houses different ties to entertainment. One owns a reality streamer that commissions the villa show. Another backs a prestige channel that carries fashion launches and society coverage. An independent outlet bids for interviews and creator-led podcasts. Networks can commission shows, offer exclusive deals, compete for distribution, and decide what gets promoted. Players can move between cast, host, producer, and independent creator roles through the existing creator career.
 
+**Bring your own work:** A player can use their existing podcast setup, music tools, or video channel and paste a link to an authorized episode, track, or video through the in-game inbox or optional phone handoff. Use the link as a portfolio sample for an audition or as a submission for a specific interview, screening, or performance. A fictional network or ruling-house event can feature approved submissions through supported links or embeds. The creator keeps publishing through their existing tools.
+
+**Camera crew and event coverage:** Add a playable camera operator role. A player can take a network assignment or cover an event for an independent creator, film fictional shows and ruling-house events, and submit selected in-game footage to the production. For example, a camera operator covers a palace gala and an independent podcast host pitches a companion interview with a link to an episode they already published.
+
 **Story example:** Two outlets want the same reunion interview. A royal-backed streamer offers a better contract and access to the palace gala. The independent outlet offers more control over the finished episode. The network that airs it shapes which audience hears the story first, and the player's choice affects later contracts and relationships with the houses.
 
 **Design references:** Gold Dynasty foundation and trilogy notes, Living Civilization gameplay and realism notes, cross-release account continuity concepts, Hidden Chronicles Easter egg notes, character creation and space-jail brief, and the Itanimulli Legacy companion README.
