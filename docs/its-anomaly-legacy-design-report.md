@@ -239,6 +239,7 @@ Build a functioning hospital with intake, treatment, discharge, staff, and playa
 - **Desert and foothills:** ATVs, dirt bikes, and dune buggies for trails, dunes, and off-road events. Give each distinct handling and terrain strengths.
 - **Mountains:** Playable snowboards on groomed runs and backcountry routes in the snowy upper territory. Include recreational descents and optional timed events.
 - **Civilian aviation:** Include light propeller and training aircraft, bush planes for remote strips, seaplanes for the inner-city ocean, private jets, passenger and cargo aircraft, and helicopters. Connect them to airports, mountain strips, marinas, and travel or transport jobs.
-- **Military aviation:** Include fictional fighter jets, transport aircraft, and helicopters tied to the military career and airfield postings. Define their flight roles, access, and Online balance during prototyping.
+- **Military aviation:** Include fictional fighter jets, transport aircraft, and helicopters tied to the military career and airfield postings. Keep operational fighter jets restricted to the military career and authorized airfield postings. Define progression and Online balance during prototyping.
+- **Exotic aircraft dealer:** Add a very high-cost civilian dealer for rare private jets, aerobatic planes, and other collectible aircraft. The dealer's catalog excludes operational military aircraft. Treat exact inventory and prices as balancing decisions.
 
 **Design references:** Gold Dynasty foundation and trilogy notes, Living Civilization gameplay and realism notes, cross-release account continuity concepts, Hidden Chronicles Easter egg notes, character creation and space-jail brief, and the Itanimulli Legacy companion README.
