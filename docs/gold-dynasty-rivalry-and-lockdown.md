@@ -86,6 +86,18 @@ A family has booked a canyon lodge for a reunion. Their shuttle breaks down, two
 
 A mechanic can get the family moving, a guide can bring visitors back safely, and a reporter can corroborate the sighting without naming the den. The family chooses whether to share its footage, and residents disagree about what should happen next. Publicity can fill lodges and create work while crowding the habitat. A seasonal closure can protect the den and cost guides bookings. Community-run tours outside the creature's range can preserve some income if operators and residents agree. During the first playable slice, follow one family trip through the sighting with the player involved and again with NPCs resolving it. Check that bookings, ranger decisions, and creature behavior reflect the outcome.
 
+## Island resorts and the festival mystery
+
+[Club Dread](https://www.searchlightpictures.com/clubdread) informs the shift from an over-the-top vacation comedy to an isolated mystery, along with the resort employees trying to keep a party running while guests and managers disagree about what is happening. Gold Dynasty's island has a ferry harbor, a fishing cooperative, a beach resort, a dive shop, and a small year-round neighborhood. Charter boats, concerts, seafood deliveries, and family trips run on regular schedules. Locals and seasonal workers have distinct interests in who controls the waterfront.
+
+### The missing shoreline survey
+
+During a weekend music festival, a comedian mistakes a growing crowd at the pier for the audience of a resort game show. A tide surge strands day visitors, a surveyor misses the last check-in, and the public shoreline survey vanishes from the council's exhibit. The survey could decide whether families keep access to the beach and whether the fishing cooperative can keep using its dock. The resort wants to keep the show going, the ferry crew wants an accurate count of everyone still on the island, and residents want the access dispute heard in public. The surveyor's fate and what happened to the survey unfold through the characters' decisions and evidence already in the world.
+
+A performer can help direct visitors and learn what witnesses saw backstage. A ferry worker can help account for missing passengers. A dive guide can check the shoreline with the search crew, and a reporter can trace the access dispute through earlier council records. New work comes from the same event as it advances. Late arrivals may find the search underway or only hear about its outcome through the next ferry schedule, canceled bookings, and local news. Rangers and harbor staff act on closures and missing-person reports, while the council's eventual decision changes public access, tourism work, and fishing contracts.
+
+Prototype one festival weekend with a working ferry schedule, two career entry points, and an outcome with and without player involvement. Verify that residents and visitors continue their routines between developments and that the following week reflects the harbor and council decisions.
+
 ## First playable slice
 
 Run several in-game weeks with three approaches: an absent player, a player working legitimate contracts, and a player on the thief path. Verify that ordinary trade and hiring continue, a theft is accounted for once, and each active career can discover the wage dispute through its own work.
