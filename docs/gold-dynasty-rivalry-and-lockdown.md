@@ -6,6 +6,26 @@ Netflix’s [Nemesis](https://www.netflix.com/tudum/nemesis) informs the long-ru
 
 [Mad Money](https://tv.apple.com/us/movie/mad-money/umc.cmc.4v0u7kgs8hup8v1z6j5z6qdi0) informs a women-led caper built around workers whose expertise is overlooked, the humor of their everyday working relationships, and the friction between different reasons for taking the same risk.
 
+## The economy is already running
+
+Start with residents earning wages, shops paying suppliers, merchants placing orders, and families stretching their money until payday. Give each neighborhood a regular rhythm of shifts, deliveries, rent, services, and public events. Households and businesses react within their budgets, and the city continues through the same clock and event rules when the player is elsewhere. Keep ordinary work available through local disruptions so a single shortage or crisis can change a neighborhood without freezing the city's economy.
+
+Use shared records for wages, inventory, contracts, ticket sales, and public spending. A legitimate job pays from its employer's budget. A theft moves an existing item and can create a loss, replacement order, or recovery job. Lottery prizes and public works draw from their allocated funds. Limit the local effect of shocks and let businesses recover through restocking, new suppliers, or community contracts. Track whether ordinary jobs still cover ordinary living costs through several weeks of simulated activity.
+
+## The block, the next neighborhood, and the old block
+
+Use the Friday films as references for street-level comedy, recurring neighbors, small favors with long memories, and the way a change of neighborhood can change who holds influence. Give the home block recurring faces with businesses and obligations of their own. Let the next district introduce a different pace, different kinds of work, and characters who read the player's reputation differently. Returning to the old block should reveal what changed while the player was away. These places sustain their own routines and relationships between story beats.
+
+## The thief path
+
+Treat theft as an optional role in the same simulation. Theft events change who holds an item, who owes money, and who trusts whom. A missing shipment may leave a shop short, create a replacement contract, and give a reporter competing accounts to check. Depending on what happens, the player can be blamed, make restitution, or learn why the missing goods mattered. Shopkeepers, investigators, and residents can respond on their own schedules. Resolve each loss, replacement, and recovery through the same inventory and payment records.
+
+## One story through several lives
+
+Start the reserve scandal with an ordinary payday that comes up short. On the home block the player hears about it from a regular waiting on wages. Across the harbor, a shopkeeper can't afford a replacement shipment after an unrelated loss cuts into cash flow. A lottery-funded dock repair then creates a contract at a site that still has old wage rolls. The exchange workers recognize the rolls as evidence of erased claims. A thief can encounter the same dispute through an item that changes hands, a shopkeeper through unpaid invoices, and a reporter through interviews and records. Each route reveals a different piece of the same history.
+
+The friends' competing promises and the investigator's pursuit build over those events. The floodgate chapter brings witnesses, records, and prior loyalties together. The outcome changes who gets paid, which contracts reopen, and what people say when the player returns to the block. Advance events through NPC decisions when the player skips a route so the resulting city can still be understood through its shops, news, and relationships.
+
 ## A rivalry the city can see
 
 In Gold Dynasty’s coastal capital, a series of gold-reserve incidents leaves workers unpaid and neighborhoods arguing over who gets protected first. A harbor investigator follows the families harmed by the losses. A rival gold broker claims the ruling houses have been diverting the public reserve for generations. Both recruit allies through the same city the player already works in. A reporter hears conflicting accounts, a dockworker sees contracts disappear, and a relic appraiser recognizes a seal tied to an older claim on the reserve. Each career can discover a different piece of the story through ordinary work.
@@ -39,5 +59,7 @@ A major win becomes a recognizable event. One winner pays off a family debt and 
 For the first playable slice, simulate a week in one neighborhood with a single retailer, an NPC ticket pool, a recorded jackpot draw, a claim at the shop, and a follow-up news item or contract. Verify shared jackpots, rollovers, offline draws, and that each winning ticket can be redeemed once.
 
 ## First playable slice
+
+Run several in-game weeks with three approaches: an absent player, a player working legitimate contracts, and a player on the thief path. Verify that ordinary trade and hiring continue, a theft is accounted for once, and each active career can discover the wage dispute through its own work.
 
 Prototype one exchange with three changing public spaces, two careers that arrive for different reasons, and a follow-up news segment and contract for each ending. Test the crisis once with the friends working together and once after their partnership has fractured. Check that players can understand the tradeoffs from what the characters say and do during the crisis, and can see the effects later through their normal work.
