@@ -58,6 +58,18 @@ A major win becomes a recognizable event. One winner pays off a family debt and 
 
 For the first playable slice, simulate a week in one neighborhood with a single retailer, an NPC ticket pool, a recorded jackpot draw, a claim at the shop, and a follow-up news item or contract. Verify shared jackpots, rollovers, offline draws, and that each winning ticket can be redeemed once.
 
+## Missions enter stories already in motion
+
+Give each ongoing city storyline named characters, current stakes, a next development, and a deadline or decision that moves it forward. Tailor a mission to the player's career, location, and relationships when they encounter that storyline. A dockworker gets a shift offer after a dispute, a reporter hears from a witness, and a friend gets asked to help the family. All three offers refer to the same event and its current state. If the player arrives later, offer work that fits what actually happened. If they pass, NPCs make their own decisions and the city carries the result forward.
+
+## The prison roster comes from the city
+
+Follow named characters beyond their first mission. A waterfront operator might turn success into a thriving business and start hiring, lose standing and leave the district, or go through arrest, a case, and sentencing if their actions and the evidence lead there. Use the same character record across the neighborhood, court, jail, and prison. Track pretrial detention separately from a prison sentence, and update the roster on transfer, release, or a change in the case. The character carries their relationships, debts, work history, and reputation with them. Cases and roster changes continue when the player is elsewhere.
+
+An operator's incarceration can leave a vacant contract, shift who controls a shop, and strain the family budget. People inside also have schedules, jobs, disagreements, and relationships that change over time. Visits, work assignments, interviews, and release can lead to missions for players with a reason to be involved. A former ally might ask the player to help keep their shop open from inside, then need work when they return to the neighborhood. A character who succeeds on the outside can shape later missions as an employer or rival.
+
+In the reserve story, let the same waterfront operator carry through two runs. In one, they gain a legitimate contract and open a repair yard. In the other, evidence from a related theft leads to a conviction and the player later meets them in prison. Check both runs with and without player involvement. Verify that a character appears in one place at a time and that the world remembers who took over their work and how their household adapted.
+
 ## First playable slice
 
 Run several in-game weeks with three approaches: an absent player, a player working legitimate contracts, and a player on the thief path. Verify that ordinary trade and hiring continue, a theft is accounted for once, and each active career can discover the wage dispute through its own work.
