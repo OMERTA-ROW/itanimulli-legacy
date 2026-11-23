@@ -1,10 +1,12 @@
 # Gold Dynasty — Rivalry and the Floodgate Crisis
 
-## Story references
+See the [living city and trilogy design](gold-dynasty-living-city.md) for the main story, regional livelihoods, and world systems that this chapter builds on.
 
-Netflix’s [Nemesis](https://www.netflix.com/tudum/nemesis) informs the long-running rivalry: separate incidents reveal a pattern, each lead changes what the opposing side believes, and both sides bring the pressure home to people who depend on them. _Die Hard_ informs the structure of one chapter: keep the action in a bounded location, let its layout change meaning over time, and use sparse communication and competing obligations to build pressure. _Shottas_ informs the bond between two ambitious longtime friends and how rising power tests loyalty, trust, and obligations to the community that raised them.
+## Story design
 
-[Mad Money](https://tv.apple.com/us/movie/mad-money/umc.cmc.4v0u7kgs8hup8v1z6j5z6qdi0) informs a women-led caper built around workers whose expertise is overlooked, the humor of their everyday working relationships, and the friction between different reasons for taking the same risk.
+For the long-running rivalry, let separate incidents reveal a pattern. Each lead changes what the opposing side believes, and both sides bring the pressure home to people who depend on them. For the crisis chapter, keep the action in a bounded location. Let its layout change meaning over time, and use sparse communication and competing obligations to build pressure. The two waterfront friends test their loyalty, trust, and obligations to the community as their power grows.
+
+Build a women-led caper around workers whose expertise is overlooked, the humor of their everyday working relationships, and the friction between different reasons for taking the same risk.
 
 ## The economy is already running
 
@@ -14,7 +16,7 @@ Use shared records for wages, inventory, contracts, ticket sales, and public spe
 
 ## The block, the next neighborhood, and the old block
 
-Use the Friday films as references for street-level comedy, recurring neighbors, small favors with long memories, and the way a change of neighborhood can change who holds influence. Give the home block recurring faces with businesses and obligations of their own. Let the next district introduce a different pace, different kinds of work, and characters who read the player's reputation differently. Returning to the old block should reveal what changed while the player was away. These places sustain their own routines and relationships between story beats.
+Use street-level comedy, recurring neighbors, and small favors with long memories. Let a change of neighborhood shift who holds influence. Give the home block recurring faces with businesses and obligations of their own. Let the next district introduce a different pace, different kinds of work, and characters who read the player's reputation differently. Returning to the old block should reveal what changed while the player was away. These places sustain their own routines and relationships between story beats.
 
 ## The thief path
 
@@ -74,11 +76,11 @@ In the reserve story, let the same waterfront operator carry through two runs. I
 
 The mountains and canyons have their own work and seasonal rhythms. Families book lodges and guided tours, mechanics service shuttle vans, miners ship ore, and rangers check trails. A storm or rockslide can close a route, strand vacationers, delay a shipment, and create rescue or road repair jobs. Agencies act on what is happening. Rangers close unsafe trails, inspectors investigate a disputed mine expansion, and the local council weighs emergency funding against lost income for residents. Operators, guides, and families continue making decisions when the player is elsewhere.
 
-- [Everest](https://www.universalpicturesathome.com/movies/everest) and [127 Hours](https://www.searchlightpictures.com/127hours) inform mountain weather, canyon isolation, and the tension of an outing that becomes a rescue.
-- [The Treasure of the Sierra Madre](https://www.tcm.com/watchtcm/titles/2852) informs competing gold claims and the strain a valuable discovery puts on working partnerships.
-- [Wind River](https://watch.afi.com/movie/wind-river) informs the pace of an investigation in remote terrain and the importance of residents' knowledge.
-- [Princess Mononoke](https://gkids.com/films/princess-mononoke/) informs the conflict between livelihoods, creature habitat, and communities with different ideas about stewardship.
-- The National Lampoon Vacation films inform the family-trip comedy. Give families clashing ideas of a perfect vacation, running jokes, overpriced attractions, and plans that unravel one ordinary mishap at a time.
+- Mountain weather and canyon isolation can turn an ordinary outing into a rescue.
+- Competing gold claims can put longtime working partnerships under strain.
+- Let residents’ knowledge shape the pace and direction of investigations in remote terrain.
+- Give communities competing ideas about how to protect creature habitat while sustaining local livelihoods.
+- Give families clashing ideas of a perfect vacation, running jokes, overpriced attractions, and plans that unravel one ordinary mishap at a time.
 
 ### A family trip and a Bigfoot sighting
 
@@ -88,7 +90,7 @@ A mechanic can get the family moving, a guide can bring visitors back safely, an
 
 ## Island resorts and the festival mystery
 
-[Club Dread](https://www.searchlightpictures.com/clubdread) informs the shift from an over-the-top vacation comedy to an isolated mystery, along with the resort employees trying to keep a party running while guests and managers disagree about what is happening. Gold Dynasty's island has a ferry harbor, a fishing cooperative, a beach resort, a dive shop, and a small year-round neighborhood. Charter boats, concerts, seafood deliveries, and family trips run on regular schedules. Locals and seasonal workers have distinct interests in who controls the waterfront.
+Start with vacation comedy and let it turn into an isolated mystery. Resort employees keep the party running while guests and managers disagree about what is happening. Gold Dynasty's island has a ferry harbor, a fishing cooperative, a beach resort, a dive shop, and a small year-round neighborhood. Charter boats, concerts, seafood deliveries, and family trips run on regular schedules. Locals and seasonal workers have distinct interests in who controls the waterfront.
 
 ### The missing shoreline survey
 
