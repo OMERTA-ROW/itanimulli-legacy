@@ -66,3 +66,15 @@ Three friends built a following by hosting late-night shows at neighborhood work
 - A reporter or creator can cover the scene as it grows. What they publish can prompt public support, harden a rivalry, or give a neglected collaborator a new opportunity.
 
 Track public recognition, trust within the crew, and reliability with venues separately. A public claim can bring bigger offers while costing the player the people willing to help deliver the show. Broken promises can affect future bookings, while making amends takes follow-through. If the player walks away, the friends can still reconcile, split into rival acts, or find different work as the city moves on.
+
+### A block that laughs at itself
+
+The Pearl Steps street market hosts a live neighborhood broadcast where vendors, comics, and residents poke fun at local status games and city hall. A council candidate turns a sidewalk repair into a ribbon-cutting ceremony while the vendors quietly move their stalls around the hole. Players can book performers, film their own segment, sponsor the show, or play the straight-faced organizer trying to keep it on schedule.
+
+A joke that lands can draw a crowd, boost sales, or give the organizer a recurring booking. A careless joke at a resident's expense can cost a sponsor or a longtime collaborator. Build the humor around local personalities, everyday contradictions, and powerful people taking themselves too seriously.
+
+### What it costs to stay
+
+In the same neighborhood, an apprentice boat mechanic is saving for a certification course. A longtime friend expects them to stand with the group after a public feud puts their reputation under pressure. Family, coworkers, and friends make competing claims on their time. The player can encounter the situation as a friend, employer, or mentor. They can offer paid work, help keep the apprenticeship open, or bring the people involved together before the dispute takes another turn.
+
+Let the consequences show up in daily life. Someone stops turning up for shifts, a family changes its plans, a shop loses an apprentice, or a coworker offers a route back. Characters can act on their own, and later encounters reflect the promises they kept or broke. Give the market's comedy and the apprenticeship story room to breathe, especially when the neighborhood is dealing with a loss.
