@@ -56,3 +56,13 @@ In an old market district, a syndicate's growing influence leaves local business
 - **People trying to leave the syndicate** can take legitimate work through existing contacts. Their choices affect which former allies and neighborhood businesses will deal with them later.
 
 Track which businesses survive, whether families return, and who residents trust. If the syndicate loses influence, recovery takes time. Vacant stores create opportunities for new owners, unresolved debts can divide former partners, and a new group can compete for influence. The district keeps changing even when the player is elsewhere.
+
+### When local fame tests a friendship
+
+Three friends built a following by hosting late-night shows at neighborhood workshops. When a waterfront venue offers a residency, the promoter gives one friend the authority to hire the crew and publicly credits them for the entire operation. That friend likes the attention. Another wants the original crew to share the opportunity, and the third is already negotiating a solo offer. The player can encounter that tension through a booking, a production job, or a local interview.
+
+- A performer can negotiate shared billing, take a solo slot, or bring the crew to a smaller venue on terms they set together.
+- A technician or organizer can broker a new agreement over pay, credit, and who gets to make decisions. Their relationships help determine who will hear them out.
+- A reporter or creator can cover the scene as it grows. What they publish can prompt public support, harden a rivalry, or give a neglected collaborator a new opportunity.
+
+Track public recognition, trust within the crew, and reliability with venues separately. A public claim can bring bigger offers while costing the player the people willing to help deliver the show. Broken promises can affect future bookings, while making amends takes follow-through. If the player walks away, the friends can still reconcile, split into rival acts, or find different work as the city moves on.
