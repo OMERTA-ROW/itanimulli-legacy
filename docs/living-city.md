@@ -44,3 +44,15 @@ Each situation starts from existing relationships, debts, rivalries, or business
 | A crew tests its loyalties | A disputed relic becomes the objective of a fictional crew caper. Play centers on recruiting characters with competing motives, choosing roles, improvising during scripted reversals, and deciding what to do with the relic and split afterward. | Who honored the agreement, which alliances survived, and who will work together on future jobs. |
 
 One event can carry across several situations. A coastal discovery could prompt an interview commission, a salvage bid, a museum dispute, and a security job at the same time. Each is a playable line of work. The city’s reactions can also carry clues into the broader story, while leaving the major reveals for players to discover.
+
+### A district under pressure
+
+In an old market district, a syndicate's growing influence leaves local businesses and families facing hard choices about whom they can depend on. One shop closes early. A venue loses its regular suppliers. Tenants start organizing after several families leave the block. These changes appear in ordinary play before anyone offers a mission.
+
+- **Residents and organizers** can help displaced households, rebuild neighborhood services, or bring residents and merchants together around a shared demand.
+- **Shop owners** can join a merchants' association, accept a short-term deal that strains neighborhood trust, or keep a business open by changing suppliers and renegotiating contracts.
+- **Reporters and creators** can follow the story through storefront closures and interviews. Publishing a corroborated account can bring public attention and new support. Getting the story wrong can cost sources their trust.
+- **Investigators** can compare fictional case records and witness accounts. Strong cases and community trust can support an intervention, while a premature public accusation can cause witnesses to withdraw.
+- **People trying to leave the syndicate** can take legitimate work through existing contacts. Their choices affect which former allies and neighborhood businesses will deal with them later.
+
+Track which businesses survive, whether families return, and who residents trust. If the syndicate loses influence, recovery takes time. Vacant stores create opportunities for new owners, unresolved debts can divide former partners, and a new group can compete for influence. The district keeps changing even when the player is elsewhere.
