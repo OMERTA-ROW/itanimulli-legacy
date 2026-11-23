@@ -98,6 +98,18 @@ A performer can help direct visitors and learn what witnesses saw backstage. A f
 
 Prototype one festival weekend with a working ferry schedule, two career entry points, and an outcome with and without player involvement. Verify that residents and visitors continue their routines between developments and that the following week reflects the harbor and council decisions.
 
+## Sea ventures and the Sunken Court
+
+Use Pirates of the Caribbean as a tone reference for unruly crews, legendary ships, disputed treasure, and supernatural sea stories. In Gold Dynasty, fishing captains, dive guides, ferry pilots, and salvage crews already work these waters. They pass down conflicting stories about the Sunken Court, an ancient harbor where rulers once registered maritime debts before the coastline sank. Sailors swear that a bell still rings beneath the harbor and that, at certain tides, ships can dock at a quay that vanished generations ago.
+
+The ship at the center of the legend is the Lantern Census, an old harbor survey vessel with a tower of amber lamps. Its lights mark vanished anchorages, and captains disagree about whether it guides boats to safety or calls them back to settle unfinished obligations. During an ordinary charter, the crew follows what looks like a marker light and finds the vessel anchored above a drowned harbor. Its deck carries cargo seals from several eras. The crew argues over whether to finish the charter, report what they saw, or take on a salvage contract the following morning.
+
+### A treasure with living claimants
+
+Below the quay, sealed trade chests hold gold alongside records that link present-day harbor families to shares in the original port. A museum wants the collection intact, a salvage crew wants payment for the recovery, island residents see a claim to docking and fishing rights, and harbor authorities have to decide whether to recognize documents that contradict their own records. A dive guide, charter captain, or reporter can encounter the same discovery through their regular work. The people who found it can also advance the story when the player sails elsewhere.
+
+Let the outcome change the coast. A public exhibit can create guide work, a recognized claim can reopen a cooperative dock, and a disputed recovery can tie up salvage contracts while the hearing plays out. Prototype one routine trip that crosses a rare tide, then follow the same discovery to shore with and without player participation. Verify that claims, pay, and harbor access follow the outcome.
+
 ## First playable slice
 
 Run several in-game weeks with three approaches: an absent player, a player working legitimate contracts, and a player on the thief path. Verify that ordinary trade and hiring continue, a theft is accounted for once, and each active career can discover the wage dispute through its own work.
