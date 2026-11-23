@@ -28,6 +28,16 @@ During an inaugural harbor festival, a sudden surge isolates a terraced civic ex
 
 The player can help evacuate the exchange, keep the charter in public custody, or put competing testimony on the record. The city carries forward who was helped, whose account became public, and which alliances held. Those outcomes change subsequent news, contracts, and succession claims. If the player skips the festival, the crisis resolves through the people already involved and reaches the player through the same living-city systems.
 
+## The city lottery
+
+Make the lottery part of the coastal capital's weekly rhythm. Corner shops and market kiosks sell inexpensive daily number tickets and entries for a weekly citywide jackpot. Residents talk about their numbers at cafés, regulars watch the drawing together, and neighborhood news announces results and reports on winners who choose to go public. Players can choose their numbers or take a quick pick, then check a ticket at a shop or against posted results. Display ticket prices, odds, draw times, and claim deadlines before purchase. The lottery uses earned in-game currency, and prizes stay within the game.
+
+The daily draw pays smaller fixed prizes. The weekly jackpot rolls over when nobody wins and is split when multiple tickets match. NPC tickets compete in the same draws as the player's, and each draw resolves once, even when the player is away. Budget prizes, shop commissions, and a community fund from ticket proceeds. Show which public works received funding so a dock repair, market renovation, or youth festival can generate ordinary contracts for players who never buy a ticket.
+
+A major win becomes a recognizable event. One winner pays off a family debt and keeps working. Another opens a boatyard and starts hiring. Shop owners gain regulars on draw nights, and reporters can follow a public winner's story or investigate a dispute over where the money went. Tie these consequences to the existing contract, news, and relationship systems. The main story advances through its usual career paths regardless of lottery participation.
+
+For the first playable slice, simulate a week in one neighborhood with a single retailer, an NPC ticket pool, a recorded jackpot draw, a claim at the shop, and a follow-up news item or contract. Verify shared jackpots, rollovers, offline draws, and that each winning ticket can be redeemed once.
+
 ## First playable slice
 
 Prototype one exchange with three changing public spaces, two careers that arrive for different reasons, and a follow-up news segment and contract for each ending. Test the crisis once with the friends working together and once after their partnership has fractured. Check that players can understand the tradeoffs from what the characters say and do during the crisis, and can see the effects later through their normal work.
