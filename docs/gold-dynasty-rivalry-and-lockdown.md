@@ -4,6 +4,8 @@
 
 Netflix’s [Nemesis](https://www.netflix.com/tudum/nemesis) informs the long-running rivalry: separate incidents reveal a pattern, each lead changes what the opposing side believes, and both sides bring the pressure home to people who depend on them. _Die Hard_ informs the structure of one chapter: keep the action in a bounded location, let its layout change meaning over time, and use sparse communication and competing obligations to build pressure. _Shottas_ informs the bond between two ambitious longtime friends and how rising power tests loyalty, trust, and obligations to the community that raised them.
 
+[Mad Money](https://tv.apple.com/us/movie/mad-money/umc.cmc.4v0u7kgs8hup8v1z6j5z6qdi0) informs a women-led caper built around workers whose expertise is overlooked, the humor of their everyday working relationships, and the friction between different reasons for taking the same risk.
+
 ## A rivalry the city can see
 
 In Gold Dynasty’s coastal capital, a series of gold-reserve incidents leaves workers unpaid and neighborhoods arguing over who gets protected first. A harbor investigator follows the families harmed by the losses. A rival gold broker claims the ruling houses have been diverting the public reserve for generations. Both recruit allies through the same city the player already works in. A reporter hears conflicting accounts, a dockworker sees contracts disappear, and a relic appraiser recognizes a seal tied to an older claim on the reserve. Each career can discover a different piece of the story through ordinary work.
@@ -13,6 +15,12 @@ In Gold Dynasty’s coastal capital, a series of gold-reserve incidents leaves w
 The gold broker and a dockside cooperative organizer grew up working at the same fish market. Together they helped keep the waterfront employed when the ruling houses withdrew their business. Now the broker wants a seat at the table with those houses, while the organizer wants workers to own a share of the port. Early contracts let the player rely on both friends before their goals diverge. When the reserve scandal threatens payroll, each asks the player to honor a different promise made to the same neighborhood.
 
 Track trust with each friend separately from trust with the community. Public decisions can win the support of one without carrying the other. The friends may preserve the partnership, go their own ways, or become rivals. During the floodgate crisis, their history determines whether they share what they know and whose promises festival workers believe.
+
+## The wage claim
+
+Three women who keep the civic exchange running discover that the ruling houses erased years of waterfront wage claims. A payroll clerk wants the workers paid before her own family loses its home. A festival electrician wants the city to hear testimony from the people who kept the port alive. A gold assayer wants an independent hearing after her signature was used to certify the false accounts.
+
+Their caper plays out around the festival as they try to get witnesses and corroborating records before a public audience. Let each woman take the lead on a different part of the story, including the decision over how much to reveal about her own role. The player can back a public hearing or support a quieter repayment agreement. The crew weighs that choice independently, and the outcome determines who returns as an ally and which waterfront contracts become available. If the flood separates the crew, their earlier agreements determine who speaks for them.
 
 ## The Floodgate Crisis
 
