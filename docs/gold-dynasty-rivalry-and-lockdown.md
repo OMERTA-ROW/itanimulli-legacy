@@ -70,6 +70,22 @@ An operator's incarceration can leave a vacant contract, shift who controls a sh
 
 In the reserve story, let the same waterfront operator carry through two runs. In one, they gain a legitimate contract and open a repair yard. In the other, evidence from a related theft leads to a conviction and the player later meets them in prison. Check both runs with and without player involvement. Verify that a character appears in one place at a time and that the world remembers who took over their work and how their household adapted.
 
+## Mountain towns, canyon routes, and family vacations
+
+The mountains and canyons have their own work and seasonal rhythms. Families book lodges and guided tours, mechanics service shuttle vans, miners ship ore, and rangers check trails. A storm or rockslide can close a route, strand vacationers, delay a shipment, and create rescue or road repair jobs. Agencies act on what is happening. Rangers close unsafe trails, inspectors investigate a disputed mine expansion, and the local council weighs emergency funding against lost income for residents. Operators, guides, and families continue making decisions when the player is elsewhere.
+
+- [Everest](https://www.universalpicturesathome.com/movies/everest) and [127 Hours](https://www.searchlightpictures.com/127hours) inform mountain weather, canyon isolation, and the tension of an outing that becomes a rescue.
+- [The Treasure of the Sierra Madre](https://www.tcm.com/watchtcm/titles/2852) informs competing gold claims and the strain a valuable discovery puts on working partnerships.
+- [Wind River](https://watch.afi.com/movie/wind-river) informs the pace of an investigation in remote terrain and the importance of residents' knowledge.
+- [Princess Mononoke](https://gkids.com/films/princess-mononoke/) informs the conflict between livelihoods, creature habitat, and communities with different ideas about stewardship.
+- The National Lampoon Vacation films inform the family-trip comedy. Give families clashing ideas of a perfect vacation, running jokes, overpriced attractions, and plans that unravel one ordinary mishap at a time.
+
+### A family trip and a Bigfoot sighting
+
+A family has booked a canyon lodge for a reunion. Their shuttle breaks down, two branches of the family argue over the itinerary, and someone records a Bigfoot-like creature returning to its canyon den. Their clip draws a crowd and puts a guide's business, the family's privacy, and the creature's habitat in conflict. The creature has a seasonal range and responds to crowds, noise, and changes to its habitat. Sightings can occur during ordinary trips before any mission becomes available.
+
+A mechanic can get the family moving, a guide can bring visitors back safely, and a reporter can corroborate the sighting without naming the den. The family chooses whether to share its footage, and residents disagree about what should happen next. Publicity can fill lodges and create work while crowding the habitat. A seasonal closure can protect the den and cost guides bookings. Community-run tours outside the creature's range can preserve some income if operators and residents agree. During the first playable slice, follow one family trip through the sighting with the player involved and again with NPCs resolving it. Check that bookings, ranger decisions, and creature behavior reflect the outcome.
+
 ## First playable slice
 
 Run several in-game weeks with three approaches: an absent player, a player working legitimate contracts, and a player on the thief path. Verify that ordinary trade and hiring continue, a theft is accounted for once, and each active career can discover the wage dispute through its own work.
