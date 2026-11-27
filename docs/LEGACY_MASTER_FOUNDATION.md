@@ -1,0 +1,15 @@
+# It's Anomaly: Legacy — Master foundation
+
+This index consolidates the current owner direction. Where earlier companion documents conflict, this master direction and LEGACY_TRILOGY_REVEAL_PACING.md take precedence.
+
+- Part I: Earth-based criminal civilization, sex (consensual adult relationships), money, murder, power, economy, institutions and fictional conspiracies. Fifteen focused chapters with alternative endings; no space civilization or accessible multiverse reveal in Part I, including online updates. Earlier six-chapter outlines and explicit space/digital chapters are superseded.
+- Post-campaign: retain earned offline money and eligible assets in free roam. Online has separate server-authoritative economy, independent onboarding, deeper narrative continuation, greater institutional complexity and abundant optional micro-missions, side quests and contracts. Part II introduces space civilization gradually; Part III may converge physical, digital and parallel realities. Exact future elements and twists remain owner decisions.
+- Evolution Theory governs historical, family, mission and organizational lineage, economy, discoveries and live-service continuity. Prophecy Network and Restricted Reality Theory remain original fictional mysteries. Earlier space prototype concepts are future-release research, not Part I launch requirements.
+- Adaptive Civilization Intelligence: voice/text dialogue, individual personalities, bounded awareness, memory, independent decisions and skill-based defensive combat. Collective human knowledge adapted to original world canon, individual expertise, education, lifelong learning and generational transmission. Simulated intelligence, not actual consciousness.
+- Realism: species-specific animal behavior, ecological and physical simulation, social institutions, justice and economic causality. Use credible research, performance budgets, privacy, accessibility, moderation and online fairness.
+
+## Companion specifications
+See LEGACY_MULTIVERSE_FOUNDATION.md, LEGACY_PROPHECY_AND_RESTRICTED_REALITY.md, LEGACY_HISTORICAL_LINEAGE.md, LEGACY_FAMILY_AND_MISSION_LINEAGE.md, LEGACY_ONLINE_FIRST_DIRECTION.md, LEGACY_MATURE_GAMEPLAY_AND_CONSPIRACY.md, LEGACY_TRILOGY_LIVE_SERVICE.md, LEGACY_ORGANIZATIONAL_EVOLUTION.md, LEGACY_EVOLUTION_THEORY.md, LEGACY_ECONOMY_AND_CAMPAIGN.md, LEGACY_CRIMINAL_CODE_CAMPAIGN.md, LEGACY_POST_CAMPAIGN_AND_ONLINE.md, LEGACY_ONLINE_DIFFICULTY_AND_JUSTICE.md, LEGACY_FREE_ROAM_MISSIONS.md, LEGACY_TRILOGY_REVEAL_PACING.md, LEGACY_ADAPTIVE_CIVILIZATION_INTELLIGENCE.md, LEGACY_REALISM_AND_AWARENESS.md and LEGACY_CIVILIZATION_KNOWLEDGE.md.
+
+## Proposed implementation order
+First prototype an Earth district with a small economy, NPC dialogue and perception, defensive combat, justice, ordinary missions and one optional historical clue. Validate offline persistence and separate online state before scaling. Future release systems remain gated. Documentation only; no runtime implementation, fixed release dates, final plot or deployment. Owner review and merge required.
